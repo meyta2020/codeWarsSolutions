@@ -1,0 +1,19 @@
+//https://www.codewars.com/kata/57b58827d2a31c57720012e8
+
+function fuelPrice(litres, pricePerLiter) {
+  let totalPrice;
+  if (litres < 2) {
+    totalPrice = pricePerLiter * litres;
+  } else if (litres < 4) {
+   totalPrice = (pricePerLiter - 0.05) * litres;
+  } else if (litres < 6) {
+   totalPrice = (pricePerLiter - 0.1) * litres;
+  } else if (litres < 8) {
+   totalPrice = (pricePerLiter - 0.15) * litres;
+  } else if (litres < 10) {
+   totalPrice = (pricePerLiter - 0.20) * litres;
+  } else {
+   totalPrice = (pricePerLiter - 0.25) * litres;
+  }
+  return Number(totalPrice.toFixed(2));
+}
