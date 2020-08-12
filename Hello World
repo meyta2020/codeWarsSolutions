@@ -1,0 +1,7 @@
+//https://www.codewars.com/kata/523b4ff7adca849afe000035
+
+function greet() {
+  var str = "hello world";
+  console.log( str );
+  return "hello world!"
+}
