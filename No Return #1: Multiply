@@ -1,0 +1,4 @@
+// https://www.codewars.com/kata/5922009a5d4ad2322300008b
+
+const multiply = (a, b) => a* b;
+console.log(multiply(2,4))
