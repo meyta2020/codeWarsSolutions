@@ -1,4 +1,4 @@
-// https://www.codewars.com/kata//5f55ecd770692e001484af7d
+// https://www.codewars.com/kata/5f55ecd770692e001484af7d/train/javascript
 
 function mirror(data) {
     let first = data.slice().sort((a, b) => a - b)
