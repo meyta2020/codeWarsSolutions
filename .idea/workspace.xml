@@ -1,0 +1,536 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e5e45dc1-2447-4675-aa8d-f654676f54c4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1gVyrO4bPKq4tTmmWa8JBPmIhjI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e5e45dc1-2447-4675-aa8d-f654676f54c4" name="Default Changelist" comment="" />
+      <created>1598214252878</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598214252878</updated>
+      <workItem from="1598214254474" duration="26000" />
+      <workItem from="1598214324482" duration="19000" />
+      <workItem from="1598214649044" duration="696000" />
+      <workItem from="1598282873468" duration="109000" />
+      <workItem from="1598384826968" duration="144000" />
+      <workItem from="1598472880087" duration="113000" />
+      <workItem from="1598473028777" duration="82000" />
+      <workItem from="1598553275791" duration="117000" />
+      <workItem from="1598635189565" duration="120000" />
+      <workItem from="1598635347765" duration="48000" />
+      <workItem from="1598729097438" duration="122000" />
+      <workItem from="1598820139558" duration="760000" />
+      <workItem from="1598915170852" duration="162000" />
+      <workItem from="1598990405227" duration="216000" />
+      <workItem from="1599060816111" duration="153000" />
+      <workItem from="1599067952912" duration="201000" />
+      <workItem from="1599152815443" duration="374000" />
+      <workItem from="1599245485770" duration="171000" />
+      <workItem from="1599350275568" duration="152000" />
+      <workItem from="1599414422233" duration="212000" />
+      <workItem from="1599525078099" duration="789000" />
+      <workItem from="1599625889768" duration="231000" />
+      <workItem from="1599681896780" duration="270000" />
+      <workItem from="1599767299835" duration="378000" />
+      <workItem from="1600023694771" duration="268000" />
+      <workItem from="1600113385796" duration="98000" />
+      <workItem from="1600197909310" duration="241000" />
+      <workItem from="1600307716333" duration="164000" />
+      <workItem from="1600407766000" duration="136000" />
+      <workItem from="1600618090484" duration="118000" />
+      <workItem from="1600727666821" duration="141000" />
+      <workItem from="1600814381154" duration="100000" />
+      <workItem from="1600921933820" duration="195000" />
+      <workItem from="1600988255570" duration="103000" />
+      <workItem from="1601061686774" duration="86000" />
+      <workItem from="1601063211101" duration="552000" />
+      <workItem from="1601175528505" duration="227000" />
+      <workItem from="1601248446746" duration="95000" />
+      <workItem from="1601311752454" duration="223000" />
+      <workItem from="1601432982221" duration="77000" />
+      <workItem from="1601481411071" duration="471000" />
+      <workItem from="1601569183668" duration="458000" />
+      <workItem from="1601603839389" duration="246000" />
+      <workItem from="1601666683212" duration="1743000" />
+      <workItem from="1601775532945" duration="366000" />
+      <workItem from="1601840578607" duration="244000" />
+      <workItem from="1601913358911" duration="146000" />
+      <workItem from="1602024134621" duration="185000" />
+      <workItem from="1602088981507" duration="225000" />
+      <workItem from="1602175903162" duration="150000" />
+      <workItem from="1602292491206" duration="389000" />
+      <workItem from="1602434998266" duration="159000" />
+      <workItem from="1602539930341" duration="349000" />
+      <workItem from="1602612174477" duration="160000" />
+      <workItem from="1602724803157" duration="657000" />
+      <workItem from="1603208780816" duration="963000" />
+      <workItem from="1603314568613" duration="154000" />
+      <workItem from="1603372985147" duration="92000" />
+      <workItem from="1603485150746" duration="1026000" />
+      <workItem from="1603664768586" duration="140000" />
+      <workItem from="1603726291599" duration="199000" />
+      <workItem from="1603809811467" duration="767000" />
+      <workItem from="1603986796136" duration="188000" />
+      <workItem from="1604103723933" duration="735000" />
+      <workItem from="1604190170548" duration="525000" />
+      <workItem from="1604252586949" duration="118000" />
+      <workItem from="1604460918738" duration="77000" />
+      <workItem from="1604523393441" duration="73000" />
+      <workItem from="1604971778305" duration="173000" />
+      <workItem from="1604972012715" duration="61000" />
+      <workItem from="1605226091635" duration="840000" />
+      <workItem from="1605322637544" duration="86000" />
+      <workItem from="1605380354938" duration="292000" />
+      <workItem from="1605630936927" duration="241000" />
+      <workItem from="1605746497498" duration="256000" />
+      <workItem from="1605804576381" duration="340000" />
+      <workItem from="1605892005274" duration="324000" />
+      <workItem from="1606005841417" duration="148000" />
+      <workItem from="1606077147049" duration="312000" />
+      <workItem from="1606144127611" duration="233000" />
+      <workItem from="1606234715713" duration="652000" />
+      <workItem from="1606493824256" duration="1193000" />
+    </task>
+    <task id="LOCAL-00096" summary="Codewars solution &quot;Unique In Order&quot;">
+      <created>1603810468155</created>
+      <option name="number" value="00096" />
+      <option name="presentableId" value="LOCAL-00096" />
+      <option name="project" value="LOCAL" />
+      <updated>1603810468156</updated>
+    </task>
+    <task id="LOCAL-00097" summary="Codewars solution &quot;Triple Trouble&quot;">
+      <created>1603810536598</created>
+      <option name="number" value="00097" />
+      <option name="presentableId" value="LOCAL-00097" />
+      <option name="project" value="LOCAL" />
+      <updated>1603810536598</updated>
+    </task>
+    <task id="LOCAL-00098" summary="Codewars solution &quot;Spacify&quot;">
+      <created>1603810599570</created>
+      <option name="number" value="00098" />
+      <option name="presentableId" value="LOCAL-00098" />
+      <option name="project" value="LOCAL" />
+      <updated>1603810599570</updated>
+    </task>
+    <task id="LOCAL-00099" summary="Codewars solution &quot;Reversed Strings&quot;">
+      <created>1603810655473</created>
+      <option name="number" value="00099" />
+      <option name="presentableId" value="LOCAL-00099" />
+      <option name="project" value="LOCAL" />
+      <updated>1603810655473</updated>
+    </task>
+    <task id="LOCAL-00100" summary="Codewars solution &quot;Power of two&quot;">
+      <created>1603987009846</created>
+      <option name="number" value="00100" />
+      <option name="presentableId" value="LOCAL-00100" />
+      <option name="project" value="LOCAL" />
+      <updated>1603987009847</updated>
+    </task>
+    <task id="LOCAL-00101" summary="Codewars solution &quot;Difference Of Squares&quot;">
+      <created>1603987064284</created>
+      <option name="number" value="00101" />
+      <option name="presentableId" value="LOCAL-00101" />
+      <option name="project" value="LOCAL" />
+      <updated>1603987064284</updated>
+    </task>
+    <task id="LOCAL-00102" summary="Codewars solution &quot;Factorial&quot;">
+      <created>1604104492184</created>
+      <option name="number" value="00102" />
+      <option name="presentableId" value="LOCAL-00102" />
+      <option name="project" value="LOCAL" />
+      <updated>1604104492184</updated>
+    </task>
+    <task id="LOCAL-00103" summary="Codewars solution &quot;Powers of 3&quot;">
+      <created>1604104557303</created>
+      <option name="number" value="00103" />
+      <option name="presentableId" value="LOCAL-00103" />
+      <option name="project" value="LOCAL" />
+      <updated>1604104557303</updated>
+    </task>
+    <task id="LOCAL-00104" summary="Codewars solution &quot;Very Even&quot; Numbers">
+      <created>1604190529324</created>
+      <option name="number" value="00104" />
+      <option name="presentableId" value="LOCAL-00104" />
+      <option name="project" value="LOCAL" />
+      <updated>1604190529324</updated>
+    </task>
+    <task id="LOCAL-00105" summary="Codewars solution &quot;No zeros for heros&quot;">
+      <created>1604190618072</created>
+      <option name="number" value="00105" />
+      <option name="presentableId" value="LOCAL-00105" />
+      <option name="project" value="LOCAL" />
+      <updated>1604190618072</updated>
+    </task>
+    <task id="LOCAL-00106" summary="Codewars solution &quot;Money, Money, Money&quot;">
+      <created>1604190679252</created>
+      <option name="number" value="00106" />
+      <option name="presentableId" value="LOCAL-00106" />
+      <option name="project" value="LOCAL" />
+      <updated>1604190679252</updated>
+    </task>
+    <task id="LOCAL-00107" summary="Codewars solution &quot;Counting sheep...&quot;">
+      <created>1604252668297</created>
+      <option name="number" value="00107" />
+      <option name="presentableId" value="LOCAL-00107" />
+      <option name="project" value="LOCAL" />
+      <updated>1604252668298</updated>
+    </task>
+    <task id="LOCAL-00108" summary="Codewars solution &quot;Count of positives / sum of negatives&quot;">
+      <created>1604460976546</created>
+      <option name="number" value="00108" />
+      <option name="presentableId" value="LOCAL-00108" />
+      <option name="project" value="LOCAL" />
+      <updated>1604460976546</updated>
+    </task>
+    <task id="LOCAL-00109" summary="Codewars solution &quot;Simple Fun #152: Invite More Women?&quot;">
+      <created>1604523453969</created>
+      <option name="number" value="00109" />
+      <option name="presentableId" value="LOCAL-00109" />
+      <option name="project" value="LOCAL" />
+      <updated>1604523453969</updated>
+    </task>
+    <task id="LOCAL-00110" summary="Codewars solution &quot;Odd or Even?&quot;">
+      <created>1604971882172</created>
+      <option name="number" value="00110" />
+      <option name="presentableId" value="LOCAL-00110" />
+      <option name="project" value="LOCAL" />
+      <updated>1604971882173</updated>
+    </task>
+    <task id="LOCAL-00111" summary="Codewars solution &quot;Row Weights&quot;">
+      <created>1605226741479</created>
+      <option name="number" value="00111" />
+      <option name="presentableId" value="LOCAL-00111" />
+      <option name="project" value="LOCAL" />
+      <updated>1605226741479</updated>
+    </task>
+    <task id="LOCAL-00112" summary="Codewars solution &quot;Sum Arrays&quot;">
+      <created>1605227067554</created>
+      <option name="number" value="00112" />
+      <option name="presentableId" value="LOCAL-00112" />
+      <option name="project" value="LOCAL" />
+      <updated>1605227067554</updated>
+    </task>
+    <task id="LOCAL-00113" summary="Codewars solution &quot;Calculate average&quot;">
+      <created>1605322710857</created>
+      <option name="number" value="00113" />
+      <option name="presentableId" value="LOCAL-00113" />
+      <option name="project" value="LOCAL" />
+      <updated>1605322710858</updated>
+    </task>
+    <task id="LOCAL-00114" summary="Codewars solution &quot;How good are you really?&quot;">
+      <created>1605380453038</created>
+      <option name="number" value="00114" />
+      <option name="presentableId" value="LOCAL-00114" />
+      <option name="project" value="LOCAL" />
+      <updated>1605380453038</updated>
+    </task>
+    <task id="LOCAL-00115" summary="Codewars solution &quot;Sum even numbers&quot;">
+      <created>1605380529852</created>
+      <option name="number" value="00115" />
+      <option name="presentableId" value="LOCAL-00115" />
+      <option name="project" value="LOCAL" />
+      <updated>1605380529852</updated>
+    </task>
+    <task id="LOCAL-00116" summary="Codewars solution &quot;Count the Monkeys!&quot;">
+      <created>1605380593611</created>
+      <option name="number" value="00116" />
+      <option name="presentableId" value="LOCAL-00116" />
+      <option name="project" value="LOCAL" />
+      <updated>1605380593611</updated>
+    </task>
+    <task id="LOCAL-00117" summary="Codewars solution &quot;Series of integers from m to n&quot;">
+      <created>1605631112642</created>
+      <option name="number" value="00117" />
+      <option name="presentableId" value="LOCAL-00117" />
+      <option name="project" value="LOCAL" />
+      <updated>1605631112642</updated>
+    </task>
+    <task id="LOCAL-00118" summary="Codewars solution &quot;Generate range of integers&quot;">
+      <created>1605631171176</created>
+      <option name="number" value="00118" />
+      <option name="presentableId" value="LOCAL-00118" />
+      <option name="project" value="LOCAL" />
+      <updated>1605631171176</updated>
+    </task>
+    <task id="LOCAL-00119" summary="Codewars solution &quot;Filling an array (part 1)&quot;">
+      <created>1605746628205</created>
+      <option name="number" value="00119" />
+      <option name="presentableId" value="LOCAL-00119" />
+      <option name="project" value="LOCAL" />
+      <updated>1605746628205</updated>
+    </task>
+    <task id="LOCAL-00120" summary="Codewars solution &quot;To square(root) or not to square(root)&quot;">
+      <created>1605746704952</created>
+      <option name="number" value="00120" />
+      <option name="presentableId" value="LOCAL-00120" />
+      <option name="project" value="LOCAL" />
+      <updated>1605746704952</updated>
+    </task>
+    <task id="LOCAL-00121" summary="Codewars solution &quot;Training JS #4: Basic data types--Array&quot;">
+      <created>1605804725845</created>
+      <option name="number" value="00121" />
+      <option name="presentableId" value="LOCAL-00121" />
+      <option name="project" value="LOCAL" />
+      <updated>1605804725845</updated>
+    </task>
+    <task id="LOCAL-00122" summary="Codewars solution &quot;Square(n) Sum&quot;">
+      <created>1605804783355</created>
+      <option name="number" value="00122" />
+      <option name="presentableId" value="LOCAL-00122" />
+      <option name="project" value="LOCAL" />
+      <updated>1605804783355</updated>
+    </task>
+    <task id="LOCAL-00123" summary="Codewars solution &quot;Difference of Volumes of Cuboids&quot;">
+      <created>1605804843442</created>
+      <option name="number" value="00123" />
+      <option name="presentableId" value="LOCAL-00123" />
+      <option name="project" value="LOCAL" />
+      <updated>1605804843442</updated>
+    </task>
+    <task id="LOCAL-00124" summary="Codewars solution &quot;Divide and Conquer&quot;">
+      <created>1605804898152</created>
+      <option name="number" value="00124" />
+      <option name="presentableId" value="LOCAL-00124" />
+      <option name="project" value="LOCAL" />
+      <updated>1605804898152</updated>
+    </task>
+    <task id="LOCAL-00125" summary="Codewars solution &quot;Find the first non-consecutive number&quot;">
+      <created>1605892090529</created>
+      <option name="number" value="00125" />
+      <option name="presentableId" value="LOCAL-00125" />
+      <option name="project" value="LOCAL" />
+      <updated>1605892090529</updated>
+    </task>
+    <task id="LOCAL-00126" summary="Codewars solution &quot;Basic Training: Add item to an Array&quot;">
+      <created>1605892171079</created>
+      <option name="number" value="00126" />
+      <option name="presentableId" value="LOCAL-00126" />
+      <option name="project" value="LOCAL" />
+      <updated>1605892171079</updated>
+    </task>
+    <task id="LOCAL-00127" summary="Codewars solution &quot;Going to the cinema&quot;">
+      <created>1605892311274</created>
+      <option name="number" value="00127" />
+      <option name="presentableId" value="LOCAL-00127" />
+      <option name="project" value="LOCAL" />
+      <updated>1605892311275</updated>
+    </task>
+    <task id="LOCAL-00128" summary="Codewars solution &quot;Sum of Multiples&quot;">
+      <created>1606005979164</created>
+      <option name="number" value="00128" />
+      <option name="presentableId" value="LOCAL-00128" />
+      <option name="project" value="LOCAL" />
+      <updated>1606005979165</updated>
+    </task>
+    <task id="LOCAL-00129" summary="Codewars solution &quot;Total amount of points&quot;">
+      <created>1606077278512</created>
+      <option name="number" value="00129" />
+      <option name="presentableId" value="LOCAL-00129" />
+      <option name="project" value="LOCAL" />
+      <updated>1606077278512</updated>
+    </task>
+    <task id="LOCAL-00130" summary="Codewars solution &quot;Backspaces in string&quot;">
+      <created>1606077334638</created>
+      <option name="number" value="00130" />
+      <option name="presentableId" value="LOCAL-00130" />
+      <option name="project" value="LOCAL" />
+      <updated>1606077334638</updated>
+    </task>
+    <task id="LOCAL-00131" summary="Codewars solution &quot;esreveR&quot;">
+      <created>1606077388668</created>
+      <option name="number" value="00131" />
+      <option name="presentableId" value="LOCAL-00131" />
+      <option name="project" value="LOCAL" />
+      <updated>1606077388668</updated>
+    </task>
+    <task id="LOCAL-00132" summary="Codewars solution &quot;Reversed sequence&quot;">
+      <created>1606077439293</created>
+      <option name="number" value="00132" />
+      <option name="presentableId" value="LOCAL-00132" />
+      <option name="project" value="LOCAL" />
+      <updated>1606077439293</updated>
+    </task>
+    <task id="LOCAL-00133" summary="Codewars solution &quot;Count by X&quot;">
+      <created>1606144226698</created>
+      <option name="number" value="00133" />
+      <option name="presentableId" value="LOCAL-00133" />
+      <option name="project" value="LOCAL" />
+      <updated>1606144226699</updated>
+    </task>
+    <task id="LOCAL-00134" summary="Codewars solution &quot;Coefficients of the Quadratic Equation&quot;">
+      <created>1606144273601</created>
+      <option name="number" value="00134" />
+      <option name="presentableId" value="LOCAL-00134" />
+      <option name="project" value="LOCAL" />
+      <updated>1606144273601</updated>
+    </task>
+    <task id="LOCAL-00135" summary="Codewars solution &quot;Squares sequence&quot;">
+      <created>1606144340291</created>
+      <option name="number" value="00135" />
+      <option name="presentableId" value="LOCAL-00135" />
+      <option name="project" value="LOCAL" />
+      <updated>1606144340291</updated>
+    </task>
+    <task id="LOCAL-00136" summary="Codewars solution &quot;Unfinished Loop - Bug Fixing #1&quot;">
+      <created>1606235041486</created>
+      <option name="number" value="00136" />
+      <option name="presentableId" value="LOCAL-00136" />
+      <option name="project" value="LOCAL" />
+      <updated>1606235041487</updated>
+    </task>
+    <task id="LOCAL-00137" summary="Codewars solution &quot;Array Mash&quot;">
+      <created>1606235180608</created>
+      <option name="number" value="00137" />
+      <option name="presentableId" value="LOCAL-00137" />
+      <option name="project" value="LOCAL" />
+      <updated>1606235180608</updated>
+    </task>
+    <task id="LOCAL-00138" summary="Codewars solution &quot;Find Maximum and Minimum Values of a List&quot;">
+      <created>1606235273145</created>
+      <option name="number" value="00138" />
+      <option name="presentableId" value="LOCAL-00138" />
+      <option name="project" value="LOCAL" />
+      <updated>1606235273145</updated>
+    </task>
+    <task id="LOCAL-00139" summary="Codewars solution &quot;Grasshopper - If/else syntax debug&quot;">
+      <created>1606494427602</created>
+      <option name="number" value="00139" />
+      <option name="presentableId" value="LOCAL-00139" />
+      <option name="project" value="LOCAL" />
+      <updated>1606494427603</updated>
+    </task>
+    <task id="LOCAL-00140" summary="Codewars solution &quot;The highest profit wins!&quot;">
+      <created>1606494680337</created>
+      <option name="number" value="00140" />
+      <option name="presentableId" value="LOCAL-00140" />
+      <option name="project" value="LOCAL" />
+      <updated>1606494680337</updated>
+    </task>
+    <task id="LOCAL-00141" summary="Codewars solution &quot;Training JS #33: methods of Math---max() min() and abs()&quot;">
+      <created>1606494753532</created>
+      <option name="number" value="00141" />
+      <option name="presentableId" value="LOCAL-00141" />
+      <option name="project" value="LOCAL" />
+      <updated>1606494753532</updated>
+    </task>
+    <task id="LOCAL-00142" summary="Codewars solution &quot;Training JS #9: loop statement --while and do..while&quot;">
+      <created>1606494841817</created>
+      <option name="number" value="00142" />
+      <option name="presentableId" value="LOCAL-00142" />
+      <option name="project" value="LOCAL" />
+      <updated>1606494841817</updated>
+    </task>
+    <task id="LOCAL-00143" summary="Codewars solution &quot;Grasshopper - Debug sayHello&quot;">
+      <created>1606494904529</created>
+      <option name="number" value="00143" />
+      <option name="presentableId" value="LOCAL-00143" />
+      <option name="project" value="LOCAL" />
+      <updated>1606494904529</updated>
+    </task>
+    <task id="LOCAL-00144" summary="Codewars solution &quot;Beginner Series #4 Cockroach&quot;">
+      <created>1606494976273</created>
+      <option name="number" value="00144" />
+      <option name="presentableId" value="LOCAL-00144" />
+      <option name="project" value="LOCAL" />
+      <updated>1606494976273</updated>
+    </task>
+    <option name="localTasksCounter" value="145" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Codewars solution &quot;To square(root) or not to square(root)&quot;" />
+    <MESSAGE value="Codewars solution &quot;Training JS #4: Basic data types--Array&quot;" />
+    <MESSAGE value="Codewars solution &quot;Square(n) Sum&quot;" />
+    <MESSAGE value="Codewars solution &quot;Difference of Volumes of Cuboids&quot;" />
+    <MESSAGE value="Codewars solution &quot;Divide and Conquer&quot;" />
+    <MESSAGE value="Codewars solution &quot;Find the first non-consecutive number&quot;" />
+    <MESSAGE value="Codewars solution &quot;Basic Training: Add item to an Array&quot;" />
+    <MESSAGE value="Codewars solution &quot;Going to the cinema&quot;" />
+    <MESSAGE value="Codewars solution &quot;Sum of Multiples&quot;" />
+    <MESSAGE value="Codewars solution &quot;Total amount of points&quot;" />
+    <MESSAGE value="Codewars solution &quot;Backspaces in string&quot;" />
+    <MESSAGE value="Codewars solution &quot;esreveR&quot;" />
+    <MESSAGE value="Codewars solution &quot;Reversed sequence&quot;" />
+    <MESSAGE value="Codewars solution &quot;Count by X&quot;" />
+    <MESSAGE value="Codewars solution &quot;Coefficients of the Quadratic Equation&quot;" />
+    <MESSAGE value="Codewars solution &quot;Squares sequence&quot;" />
+    <MESSAGE value="Codewars solution &quot;Unfinished Loop - Bug Fixing #1&quot;" />
+    <MESSAGE value="Codewars solution &quot;Array Mash&quot;" />
+    <MESSAGE value="Codewars solution &quot;Find Maximum and Minimum Values of a List&quot;" />
+    <MESSAGE value="Codewars solution &quot;Grasshopper - If/else syntax debug&quot;" />
+    <MESSAGE value="Codewars solution &quot;The highest profit wins!&quot;" />
+    <MESSAGE value="Codewars solution &quot;Training JS #33: methods of Math---max() min() and abs()&quot;" />
+    <MESSAGE value="Codewars solution &quot;Training JS #9: loop statement --while and do..while&quot;" />
+    <MESSAGE value="Codewars solution &quot;Grasshopper - Debug sayHello&quot;" />
+    <MESSAGE value="Codewars solution &quot;Beginner Series #4 Cockroach&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Codewars solution &quot;Beginner Series #4 Cockroach&quot;" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2131" y="336" key="#Notifications" timestamp="1604190460294">
+      <screen x="1440" y="23" width="1920" height="1057" />
+    </state>
+    <state x="2131" y="336" key="#Notifications/0.23.1440.784/1440.23.1920.1057@1440.23.1920.1057" timestamp="1604190460294" />
+    <state x="1846" y="100" key="CommitChangelistDialog2" timestamp="1606494976184">
+      <screen x="1440" y="23" width="1920" height="1057" />
+    </state>
+    <state x="1846" y="100" key="CommitChangelistDialog2/0.23.1440.784/1440.23.1920.1057@1440.23.1920.1057" timestamp="1606494976184" />
+    <state x="1846" y="93" key="CommitChangelistDialog2/0.23.1440.784/1440.23.1920.964@1440.23.1920.964" timestamp="1604523453876" />
+    <state x="305" y="23" key="CommitChangelistDialog2/0.23.1440.784@0.23.1440.784" timestamp="1606005978960" />
+    <state x="305" y="23" key="CommitChangelistDialog2/0.23.1440.797/1440.23.1920.1057@0.23.1440.797" timestamp="1601667659092" />
+    <state x="1846" y="100" key="CommitChangelistDialog2/0.23.1440.797/1440.23.1920.1057@1440.23.1920.1057" timestamp="1603314713898" />
+    <state x="305" y="23" key="CommitChangelistDialog2/0.23.1440.797@0.23.1440.797" timestamp="1603209106744" />
+    <state x="1846" y="93" key="CommitChangelistDialog2/0.23.1440.877/1440.23.1920.964@1440.23.1920.964" timestamp="1605322710705" />
+    <state x="305" y="51" key="CommitChangelistDialog2/0.23.1440.877/1440.23.1920.977@0.23.1440.877" timestamp="1601311962895" />
+    <state x="1838" y="265" key="Vcs.Push.Dialog.v2" timestamp="1606494978870">
+      <screen x="1440" y="23" width="1920" height="1057" />
+    </state>
+    <state x="1838" y="265" key="Vcs.Push.Dialog.v2/0.23.1440.784/1440.23.1920.1057@1440.23.1920.1057" timestamp="1606494978870" />
+    <state x="1838" y="244" key="Vcs.Push.Dialog.v2/0.23.1440.784/1440.23.1920.964@1440.23.1920.964" timestamp="1604523458800" />
+    <state x="299" y="202" key="Vcs.Push.Dialog.v2/0.23.1440.784@0.23.1440.784" timestamp="1606005983063" />
+    <state x="299" y="205" key="Vcs.Push.Dialog.v2/0.23.1440.797/1440.23.1920.1057@0.23.1440.797" timestamp="1601667662461" />
+    <state x="1838" y="265" key="Vcs.Push.Dialog.v2/0.23.1440.797/1440.23.1920.1057@1440.23.1920.1057" timestamp="1603314717328" />
+    <state x="299" y="205" key="Vcs.Push.Dialog.v2/0.23.1440.797@0.23.1440.797" timestamp="1603209110442" />
+    <state x="1838" y="244" key="Vcs.Push.Dialog.v2/0.23.1440.877/1440.23.1920.964@1440.23.1920.964" timestamp="1605322717221" />
+    <state x="299" y="224" key="Vcs.Push.Dialog.v2/0.23.1440.877/1440.23.1920.977@0.23.1440.877" timestamp="1601311967257" />
+    <state x="1838" y="247" key="Vcs.Push.Dialog.v2/0.23.1440.877/1440.23.1920.977@1440.23.1920.977" timestamp="1598215292263" />
+    <state x="456" y="141" width="672" height="678" key="search.everywhere.popup" timestamp="1598472936457">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="456" y="141" width="672" height="678" key="search.everywhere.popup/0.23.1440.797/1440.23.1920.1057@0.23.1440.797" timestamp="1598472936457" />
+  </component>
+</project>
