@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e5e45dc1-2447-4675-aa8d-f654676f54c4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Mirror, mirror, on the wall....js" beforeDir="false" />
-    </list>
+    <list default="true" id="e5e45dc1-2447-4675-aa8d-f654676f54c4" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -124,14 +122,7 @@
       <workItem from="1606144127611" duration="233000" />
       <workItem from="1606234715713" duration="652000" />
       <workItem from="1606493824256" duration="1193000" />
-      <workItem from="1606495095800" duration="668000" />
-    </task>
-    <task id="LOCAL-00097" summary="Codewars solution &quot;Triple Trouble&quot;">
-      <created>1603810536598</created>
-      <option name="number" value="00097" />
-      <option name="presentableId" value="LOCAL-00097" />
-      <option name="project" value="LOCAL" />
-      <updated>1603810536598</updated>
+      <workItem from="1606495095800" duration="762000" />
     </task>
     <task id="LOCAL-00098" summary="Codewars solution &quot;Spacify&quot;">
       <created>1603810599570</created>
@@ -469,7 +460,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606495230693</updated>
     </task>
-    <option name="localTasksCounter" value="146" />
+    <task id="LOCAL-00146" summary="Codewars solution &quot;Mirror, mirror, on the wall...&quot;">
+      <created>1606496697772</created>
+      <option name="number" value="00146" />
+      <option name="presentableId" value="LOCAL-00146" />
+      <option name="project" value="LOCAL" />
+      <updated>1606496697772</updated>
+    </task>
+    <option name="localTasksCounter" value="147" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -508,10 +506,10 @@
       <screen x="1440" y="23" width="1920" height="1057" />
     </state>
     <state x="2131" y="336" key="#Notifications/0.23.1440.784/1440.23.1920.1057@1440.23.1920.1057" timestamp="1604190460294" />
-    <state x="1846" y="100" key="CommitChangelistDialog2" timestamp="1606495230542">
+    <state x="1846" y="100" key="CommitChangelistDialog2" timestamp="1606496697656">
       <screen x="1440" y="23" width="1920" height="1057" />
     </state>
-    <state x="1846" y="100" key="CommitChangelistDialog2/0.23.1440.784/1440.23.1920.1057@1440.23.1920.1057" timestamp="1606495230542" />
+    <state x="1846" y="100" key="CommitChangelistDialog2/0.23.1440.784/1440.23.1920.1057@1440.23.1920.1057" timestamp="1606496697656" />
     <state x="1846" y="93" key="CommitChangelistDialog2/0.23.1440.784/1440.23.1920.964@1440.23.1920.964" timestamp="1604523453876" />
     <state x="305" y="23" key="CommitChangelistDialog2/0.23.1440.784@0.23.1440.784" timestamp="1606005978960" />
     <state x="305" y="23" key="CommitChangelistDialog2/0.23.1440.797/1440.23.1920.1057@0.23.1440.797" timestamp="1601667659092" />
@@ -519,10 +517,10 @@
     <state x="305" y="23" key="CommitChangelistDialog2/0.23.1440.797@0.23.1440.797" timestamp="1603209106744" />
     <state x="1846" y="93" key="CommitChangelistDialog2/0.23.1440.877/1440.23.1920.964@1440.23.1920.964" timestamp="1605322710705" />
     <state x="305" y="51" key="CommitChangelistDialog2/0.23.1440.877/1440.23.1920.977@0.23.1440.877" timestamp="1601311962895" />
-    <state x="1838" y="265" key="Vcs.Push.Dialog.v2" timestamp="1606495239432">
+    <state x="1838" y="265" key="Vcs.Push.Dialog.v2" timestamp="1606496717074">
       <screen x="1440" y="23" width="1920" height="1057" />
     </state>
-    <state x="1838" y="265" key="Vcs.Push.Dialog.v2/0.23.1440.784/1440.23.1920.1057@1440.23.1920.1057" timestamp="1606495239432" />
+    <state x="1838" y="265" key="Vcs.Push.Dialog.v2/0.23.1440.784/1440.23.1920.1057@1440.23.1920.1057" timestamp="1606496717074" />
     <state x="1838" y="244" key="Vcs.Push.Dialog.v2/0.23.1440.784/1440.23.1920.964@1440.23.1920.964" timestamp="1604523458800" />
     <state x="299" y="202" key="Vcs.Push.Dialog.v2/0.23.1440.784@0.23.1440.784" timestamp="1606005983063" />
     <state x="299" y="205" key="Vcs.Push.Dialog.v2/0.23.1440.797/1440.23.1920.1057@0.23.1440.797" timestamp="1601667662461" />
