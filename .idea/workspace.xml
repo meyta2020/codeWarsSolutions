@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e5e45dc1-2447-4675-aa8d-f654676f54c4" name="Default Changelist" comment="" />
+    <list default="true" id="e5e45dc1-2447-4675-aa8d-f654676f54c4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Convert number to reversed array of digits.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -124,20 +126,7 @@
       <workItem from="1606493824256" duration="1193000" />
       <workItem from="1606495095800" duration="762000" />
       <workItem from="1606614627625" duration="213000" />
-    </task>
-    <task id="LOCAL-00100" summary="Codewars solution &quot;Power of two&quot;">
-      <created>1603987009846</created>
-      <option name="number" value="00100" />
-      <option name="presentableId" value="LOCAL-00100" />
-      <option name="project" value="LOCAL" />
-      <updated>1603987009847</updated>
-    </task>
-    <task id="LOCAL-00101" summary="Codewars solution &quot;Difference Of Squares&quot;">
-      <created>1603987064284</created>
-      <option name="number" value="00101" />
-      <option name="presentableId" value="LOCAL-00101" />
-      <option name="project" value="LOCAL" />
-      <updated>1603987064284</updated>
+      <workItem from="1606676435694" duration="260000" />
     </task>
     <task id="LOCAL-00102" summary="Codewars solution &quot;Factorial&quot;">
       <created>1604104492184</created>
@@ -468,15 +457,27 @@
       <option name="project" value="LOCAL" />
       <updated>1606614799136</updated>
     </task>
-    <option name="localTasksCounter" value="149" />
+    <task id="LOCAL-00149" summary="Codewars solution &quot;Training JS #11: loop statement --break,continue&quot;">
+      <created>1606676606992</created>
+      <option name="number" value="00149" />
+      <option name="presentableId" value="LOCAL-00149" />
+      <option name="project" value="LOCAL" />
+      <updated>1606676606993</updated>
+    </task>
+    <task id="LOCAL-00150" summary="Codewars solution &quot;My head is at the wrong end!&quot;">
+      <created>1606676684016</created>
+      <option name="number" value="00150" />
+      <option name="presentableId" value="LOCAL-00150" />
+      <option name="project" value="LOCAL" />
+      <updated>1606676684016</updated>
+    </task>
+    <option name="localTasksCounter" value="151" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Codewars solution &quot;Difference of Volumes of Cuboids&quot;" />
-    <MESSAGE value="Codewars solution &quot;Divide and Conquer&quot;" />
     <MESSAGE value="Codewars solution &quot;Find the first non-consecutive number&quot;" />
     <MESSAGE value="Codewars solution &quot;Basic Training: Add item to an Array&quot;" />
     <MESSAGE value="Codewars solution &quot;Going to the cinema&quot;" />
@@ -500,7 +501,9 @@
     <MESSAGE value="Codewars solution &quot;Mirror, mirror, on the wall...&quot;" />
     <MESSAGE value="Codewars solution &quot;Returning Strings&quot;" />
     <MESSAGE value="Codewars solution &quot;The Skiponacci Sequence&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Codewars solution &quot;The Skiponacci Sequence&quot;" />
+    <MESSAGE value="Codewars solution &quot;Training JS #11: loop statement --break,continue&quot;" />
+    <MESSAGE value="Codewars solution &quot;My head is at the wrong end!&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Codewars solution &quot;My head is at the wrong end!&quot;" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2131" y="336" key="#Notifications" timestamp="1604190460294">
