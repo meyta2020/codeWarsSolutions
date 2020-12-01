@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e5e45dc1-2447-4675-aa8d-f654676f54c4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Convert number to reversed array of digits.js" afterDir="false" />
-    </list>
+    <list default="true" id="e5e45dc1-2447-4675-aa8d-f654676f54c4" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -126,14 +124,7 @@
       <workItem from="1606493824256" duration="1193000" />
       <workItem from="1606495095800" duration="762000" />
       <workItem from="1606614627625" duration="213000" />
-      <workItem from="1606676435694" duration="260000" />
-    </task>
-    <task id="LOCAL-00102" summary="Codewars solution &quot;Factorial&quot;">
-      <created>1604104492184</created>
-      <option name="number" value="00102" />
-      <option name="presentableId" value="LOCAL-00102" />
-      <option name="project" value="LOCAL" />
-      <updated>1604104492184</updated>
+      <workItem from="1606676435694" duration="298000" />
     </task>
     <task id="LOCAL-00103" summary="Codewars solution &quot;Powers of 3&quot;">
       <created>1604104557303</created>
@@ -471,14 +462,20 @@
       <option name="project" value="LOCAL" />
       <updated>1606676684016</updated>
     </task>
-    <option name="localTasksCounter" value="151" />
+    <task id="LOCAL-00151" summary="Codewars solution &quot;Convert number to reversed array of digits&quot;">
+      <created>1606676767958</created>
+      <option name="number" value="00151" />
+      <option name="presentableId" value="LOCAL-00151" />
+      <option name="project" value="LOCAL" />
+      <updated>1606676767958</updated>
+    </task>
+    <option name="localTasksCounter" value="152" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Codewars solution &quot;Find the first non-consecutive number&quot;" />
     <MESSAGE value="Codewars solution &quot;Basic Training: Add item to an Array&quot;" />
     <MESSAGE value="Codewars solution &quot;Going to the cinema&quot;" />
     <MESSAGE value="Codewars solution &quot;Sum of Multiples&quot;" />
@@ -503,17 +500,18 @@
     <MESSAGE value="Codewars solution &quot;The Skiponacci Sequence&quot;" />
     <MESSAGE value="Codewars solution &quot;Training JS #11: loop statement --break,continue&quot;" />
     <MESSAGE value="Codewars solution &quot;My head is at the wrong end!&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Codewars solution &quot;My head is at the wrong end!&quot;" />
+    <MESSAGE value="Codewars solution &quot;Convert number to reversed array of digits&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Codewars solution &quot;Convert number to reversed array of digits&quot;" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2131" y="336" key="#Notifications" timestamp="1604190460294">
       <screen x="1440" y="23" width="1920" height="1057" />
     </state>
     <state x="2131" y="336" key="#Notifications/0.23.1440.784/1440.23.1920.1057@1440.23.1920.1057" timestamp="1604190460294" />
-    <state x="1846" y="100" key="CommitChangelistDialog2" timestamp="1606614799041">
+    <state x="1846" y="100" key="CommitChangelistDialog2" timestamp="1606676767851">
       <screen x="1440" y="23" width="1920" height="1057" />
     </state>
-    <state x="1846" y="100" key="CommitChangelistDialog2/0.23.1440.784/1440.23.1920.1057@1440.23.1920.1057" timestamp="1606614799041" />
+    <state x="1846" y="100" key="CommitChangelistDialog2/0.23.1440.784/1440.23.1920.1057@1440.23.1920.1057" timestamp="1606676767851" />
     <state x="1846" y="93" key="CommitChangelistDialog2/0.23.1440.784/1440.23.1920.964@1440.23.1920.964" timestamp="1604523453876" />
     <state x="305" y="23" key="CommitChangelistDialog2/0.23.1440.784@0.23.1440.784" timestamp="1606005978960" />
     <state x="305" y="23" key="CommitChangelistDialog2/0.23.1440.797/1440.23.1920.1057@0.23.1440.797" timestamp="1601667659092" />
@@ -521,10 +519,10 @@
     <state x="305" y="23" key="CommitChangelistDialog2/0.23.1440.797@0.23.1440.797" timestamp="1603209106744" />
     <state x="1846" y="93" key="CommitChangelistDialog2/0.23.1440.877/1440.23.1920.964@1440.23.1920.964" timestamp="1605322710705" />
     <state x="305" y="51" key="CommitChangelistDialog2/0.23.1440.877/1440.23.1920.977@0.23.1440.877" timestamp="1601311962895" />
-    <state x="1838" y="265" key="Vcs.Push.Dialog.v2" timestamp="1606614802418">
+    <state x="1838" y="265" key="Vcs.Push.Dialog.v2" timestamp="1606676772509">
       <screen x="1440" y="23" width="1920" height="1057" />
     </state>
-    <state x="1838" y="265" key="Vcs.Push.Dialog.v2/0.23.1440.784/1440.23.1920.1057@1440.23.1920.1057" timestamp="1606614802418" />
+    <state x="1838" y="265" key="Vcs.Push.Dialog.v2/0.23.1440.784/1440.23.1920.1057@1440.23.1920.1057" timestamp="1606676772509" />
     <state x="1838" y="244" key="Vcs.Push.Dialog.v2/0.23.1440.784/1440.23.1920.964@1440.23.1920.964" timestamp="1604523458800" />
     <state x="299" y="202" key="Vcs.Push.Dialog.v2/0.23.1440.784@0.23.1440.784" timestamp="1606005983063" />
     <state x="299" y="205" key="Vcs.Push.Dialog.v2/0.23.1440.797/1440.23.1920.1057@0.23.1440.797" timestamp="1601667662461" />
