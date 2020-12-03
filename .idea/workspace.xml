@@ -127,13 +127,7 @@
       <workItem from="1606676435694" duration="298000" />
       <workItem from="1606782704672" duration="135000" />
       <workItem from="1606870277136" duration="266000" />
-    </task>
-    <task id="LOCAL-00106" summary="Codewars solution &quot;Money, Money, Money&quot;">
-      <created>1604190679252</created>
-      <option name="number" value="00106" />
-      <option name="presentableId" value="LOCAL-00106" />
-      <option name="project" value="LOCAL" />
-      <updated>1604190679252</updated>
+      <workItem from="1606927512079" duration="136000" />
     </task>
     <task id="LOCAL-00107" summary="Codewars solution &quot;Counting sheep...&quot;">
       <created>1604252668297</created>
@@ -471,14 +465,20 @@
       <option name="project" value="LOCAL" />
       <updated>1606870498831</updated>
     </task>
-    <option name="localTasksCounter" value="155" />
+    <task id="LOCAL-00155" summary="Codewars solution &quot;A wolf in sheep's clothing&quot;">
+      <created>1606927620651</created>
+      <option name="number" value="00155" />
+      <option name="presentableId" value="LOCAL-00155" />
+      <option name="project" value="LOCAL" />
+      <updated>1606927620652</updated>
+    </task>
+    <option name="localTasksCounter" value="156" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Codewars solution &quot;Total amount of points&quot;" />
     <MESSAGE value="Codewars solution &quot;Backspaces in string&quot;" />
     <MESSAGE value="Codewars solution &quot;esreveR&quot;" />
     <MESSAGE value="Codewars solution &quot;Reversed sequence&quot;" />
@@ -503,18 +503,19 @@
     <MESSAGE value="Codewars solution &quot;Invert values&quot;" />
     <MESSAGE value="Codewars solution &quot;Be Concise IV - Index of an element in an array&quot;" />
     <MESSAGE value="Codewars solution &quot;The Office IV - Find a Meeting Room&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Codewars solution &quot;The Office IV - Find a Meeting Room&quot;" />
+    <MESSAGE value="Codewars solution &quot;A wolf in sheep's clothing&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Codewars solution &quot;A wolf in sheep's clothing&quot;" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2131" y="336" key="#Notifications" timestamp="1604190460294">
       <screen x="1440" y="23" width="1920" height="1057" />
     </state>
     <state x="2131" y="336" key="#Notifications/0.23.1440.784/1440.23.1920.1057@1440.23.1920.1057" timestamp="1604190460294" />
-    <state x="305" y="23" key="CommitChangelistDialog2" timestamp="1606870498716">
-      <screen x="0" y="23" width="1440" height="788" />
+    <state x="1846" y="100" key="CommitChangelistDialog2" timestamp="1606927620492">
+      <screen x="1440" y="23" width="1920" height="1057" />
     </state>
     <state x="305" y="23" key="CommitChangelistDialog2/0.23.1440.784/1440.23.1920.1057@0.23.1440.784" timestamp="1606782763072" />
-    <state x="1846" y="100" key="CommitChangelistDialog2/0.23.1440.784/1440.23.1920.1057@1440.23.1920.1057" timestamp="1606676767851" />
+    <state x="1846" y="100" key="CommitChangelistDialog2/0.23.1440.784/1440.23.1920.1057@1440.23.1920.1057" timestamp="1606927620492" />
     <state x="1846" y="93" key="CommitChangelistDialog2/0.23.1440.784/1440.23.1920.964@1440.23.1920.964" timestamp="1604523453876" />
     <state x="305" y="23" key="CommitChangelistDialog2/0.23.1440.784@0.23.1440.784" timestamp="1606005978960" />
     <state x="305" y="23" key="CommitChangelistDialog2/0.23.1440.788/1440.23.1920.1057@0.23.1440.788" timestamp="1606870498716" />
@@ -523,11 +524,11 @@
     <state x="305" y="23" key="CommitChangelistDialog2/0.23.1440.797@0.23.1440.797" timestamp="1603209106744" />
     <state x="1846" y="93" key="CommitChangelistDialog2/0.23.1440.877/1440.23.1920.964@1440.23.1920.964" timestamp="1605322710705" />
     <state x="305" y="51" key="CommitChangelistDialog2/0.23.1440.877/1440.23.1920.977@0.23.1440.877" timestamp="1601311962895" />
-    <state x="299" y="203" key="Vcs.Push.Dialog.v2" timestamp="1606870501801">
-      <screen x="0" y="23" width="1440" height="788" />
+    <state x="1838" y="265" key="Vcs.Push.Dialog.v2" timestamp="1606927624511">
+      <screen x="1440" y="23" width="1920" height="1057" />
     </state>
     <state x="299" y="202" key="Vcs.Push.Dialog.v2/0.23.1440.784/1440.23.1920.1057@0.23.1440.784" timestamp="1606782767462" />
-    <state x="1838" y="265" key="Vcs.Push.Dialog.v2/0.23.1440.784/1440.23.1920.1057@1440.23.1920.1057" timestamp="1606676772509" />
+    <state x="1838" y="265" key="Vcs.Push.Dialog.v2/0.23.1440.784/1440.23.1920.1057@1440.23.1920.1057" timestamp="1606927624511" />
     <state x="1838" y="244" key="Vcs.Push.Dialog.v2/0.23.1440.784/1440.23.1920.964@1440.23.1920.964" timestamp="1604523458800" />
     <state x="299" y="202" key="Vcs.Push.Dialog.v2/0.23.1440.784@0.23.1440.784" timestamp="1606005983063" />
     <state x="299" y="203" key="Vcs.Push.Dialog.v2/0.23.1440.788/1440.23.1920.1057@0.23.1440.788" timestamp="1606870501801" />
