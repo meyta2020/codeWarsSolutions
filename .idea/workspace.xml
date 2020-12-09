@@ -133,13 +133,7 @@
       <workItem from="1607186510035" duration="185000" />
       <workItem from="1607309765539" duration="167000" />
       <workItem from="1607352288644" duration="124000" />
-    </task>
-    <task id="LOCAL-00113" summary="Codewars solution &quot;Calculate average&quot;">
-      <created>1605322710857</created>
-      <option name="number" value="00113" />
-      <option name="presentableId" value="LOCAL-00113" />
-      <option name="project" value="LOCAL" />
-      <updated>1605322710858</updated>
+      <workItem from="1607438415041" duration="129000" />
     </task>
     <task id="LOCAL-00114" summary="Codewars solution &quot;How good are you really?&quot;">
       <created>1605380453038</created>
@@ -477,14 +471,20 @@
       <option name="project" value="LOCAL" />
       <updated>1607352369482</updated>
     </task>
-    <option name="localTasksCounter" value="162" />
+    <task id="LOCAL-00162" summary="Codewars solution &quot;Find the lucky numbers&quot;">
+      <created>1607438528926</created>
+      <option name="number" value="00162" />
+      <option name="presentableId" value="LOCAL-00162" />
+      <option name="project" value="LOCAL" />
+      <updated>1607438528927</updated>
+    </task>
+    <option name="localTasksCounter" value="163" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Codewars solution &quot;Unfinished Loop - Bug Fixing #1&quot;" />
     <MESSAGE value="Codewars solution &quot;Array Mash&quot;" />
     <MESSAGE value="Codewars solution &quot;Find Maximum and Minimum Values of a List&quot;" />
     <MESSAGE value="Codewars solution &quot;Grasshopper - If/else syntax debug&quot;" />
@@ -509,14 +509,15 @@
     <MESSAGE value="Codewars solution &quot;You only need one - Beginner&quot;" />
     <MESSAGE value="Codewars solution &quot;Take an Arrow to the knee, Functionally&quot;" />
     <MESSAGE value="Codewars solution &quot;filterEvenLengthWords&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Codewars solution &quot;filterEvenLengthWords&quot;" />
+    <MESSAGE value="Codewars solution &quot;Find the lucky numbers&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Codewars solution &quot;Find the lucky numbers&quot;" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2131" y="336" key="#Notifications" timestamp="1604190460294">
       <screen x="1440" y="23" width="1920" height="1057" />
     </state>
     <state x="2131" y="336" key="#Notifications/0.23.1440.784/1440.23.1920.1057@1440.23.1920.1057" timestamp="1604190460294" />
-    <state x="305" y="25" key="CommitChangelistDialog2" timestamp="1607352369295">
+    <state x="305" y="25" key="CommitChangelistDialog2" timestamp="1607438528720">
       <screen x="0" y="25" width="1440" height="777" />
     </state>
     <state x="305" y="23" key="CommitChangelistDialog2/0.23.1440.784/1440.23.1920.1057@0.23.1440.784" timestamp="1606782763072" />
@@ -531,8 +532,8 @@
     <state x="305" y="51" key="CommitChangelistDialog2/0.23.1440.877/1440.23.1920.977@0.23.1440.877" timestamp="1601311962895" />
     <state x="305" y="25" key="CommitChangelistDialog2/0.25.1440.777/1440.25.1920.1055@0.25.1440.777" timestamp="1607352369295" />
     <state x="1846" y="102" key="CommitChangelistDialog2/0.25.1440.777/1440.25.1920.1055@1440.25.1920.1055" timestamp="1607134105976" />
-    <state x="305" y="25" key="CommitChangelistDialog2/0.25.1440.777@0.25.1440.777" timestamp="1607309925602" />
-    <state x="299" y="203" key="Vcs.Push.Dialog.v2" timestamp="1607352373007">
+    <state x="305" y="25" key="CommitChangelistDialog2/0.25.1440.777@0.25.1440.777" timestamp="1607438528720" />
+    <state x="299" y="203" key="Vcs.Push.Dialog.v2" timestamp="1607438537923">
       <screen x="0" y="25" width="1440" height="777" />
     </state>
     <state x="299" y="202" key="Vcs.Push.Dialog.v2/0.23.1440.784/1440.23.1920.1057@0.23.1440.784" timestamp="1606782767462" />
@@ -547,6 +548,6 @@
     <state x="299" y="224" key="Vcs.Push.Dialog.v2/0.23.1440.877/1440.23.1920.977@0.23.1440.877" timestamp="1601311967257" />
     <state x="299" y="203" key="Vcs.Push.Dialog.v2/0.25.1440.777/1440.25.1920.1055@0.25.1440.777" timestamp="1607352373007" />
     <state x="1838" y="267" key="Vcs.Push.Dialog.v2/0.25.1440.777/1440.25.1920.1055@1440.25.1920.1055" timestamp="1607134110443" />
-    <state x="299" y="203" key="Vcs.Push.Dialog.v2/0.25.1440.777@0.25.1440.777" timestamp="1607309930176" />
+    <state x="299" y="203" key="Vcs.Push.Dialog.v2/0.25.1440.777@0.25.1440.777" timestamp="1607438537923" />
   </component>
 </project>
