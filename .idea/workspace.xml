@@ -134,20 +134,7 @@
       <workItem from="1607309765539" duration="167000" />
       <workItem from="1607352288644" duration="124000" />
       <workItem from="1607438415041" duration="129000" />
-    </task>
-    <task id="LOCAL-00114" summary="Codewars solution &quot;How good are you really?&quot;">
-      <created>1605380453038</created>
-      <option name="number" value="00114" />
-      <option name="presentableId" value="LOCAL-00114" />
-      <option name="project" value="LOCAL" />
-      <updated>1605380453038</updated>
-    </task>
-    <task id="LOCAL-00115" summary="Codewars solution &quot;Sum even numbers&quot;">
-      <created>1605380529852</created>
-      <option name="number" value="00115" />
-      <option name="presentableId" value="LOCAL-00115" />
-      <option name="project" value="LOCAL" />
-      <updated>1605380529852</updated>
+      <workItem from="1607557117988" duration="214000" />
     </task>
     <task id="LOCAL-00116" summary="Codewars solution &quot;Count the Monkeys!&quot;">
       <created>1605380593611</created>
@@ -478,15 +465,27 @@
       <option name="project" value="LOCAL" />
       <updated>1607438528927</updated>
     </task>
-    <option name="localTasksCounter" value="163" />
+    <task id="LOCAL-00163" summary="Codewars solution &quot;Filter out the geese&quot;">
+      <created>1607557275224</created>
+      <option name="number" value="00163" />
+      <option name="presentableId" value="LOCAL-00163" />
+      <option name="project" value="LOCAL" />
+      <updated>1607557275224</updated>
+    </task>
+    <task id="LOCAL-00164" summary="Codewars solution &quot;List Filtering&quot;">
+      <created>1607557348805</created>
+      <option name="number" value="00164" />
+      <option name="presentableId" value="LOCAL-00164" />
+      <option name="project" value="LOCAL" />
+      <updated>1607557348805</updated>
+    </task>
+    <option name="localTasksCounter" value="165" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Codewars solution &quot;Array Mash&quot;" />
-    <MESSAGE value="Codewars solution &quot;Find Maximum and Minimum Values of a List&quot;" />
     <MESSAGE value="Codewars solution &quot;Grasshopper - If/else syntax debug&quot;" />
     <MESSAGE value="Codewars solution &quot;The highest profit wins!&quot;" />
     <MESSAGE value="Codewars solution &quot;Training JS #33: methods of Math---max() min() and abs()&quot;" />
@@ -510,14 +509,16 @@
     <MESSAGE value="Codewars solution &quot;Take an Arrow to the knee, Functionally&quot;" />
     <MESSAGE value="Codewars solution &quot;filterEvenLengthWords&quot;" />
     <MESSAGE value="Codewars solution &quot;Find the lucky numbers&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Codewars solution &quot;Find the lucky numbers&quot;" />
+    <MESSAGE value="Codewars solution &quot;Filter out the geese&quot;" />
+    <MESSAGE value="Codewars solution &quot;List Filtering&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Codewars solution &quot;List Filtering&quot;" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2131" y="336" key="#Notifications" timestamp="1604190460294">
       <screen x="1440" y="23" width="1920" height="1057" />
     </state>
     <state x="2131" y="336" key="#Notifications/0.23.1440.784/1440.23.1920.1057@1440.23.1920.1057" timestamp="1604190460294" />
-    <state x="305" y="25" key="CommitChangelistDialog2" timestamp="1607438528720">
+    <state x="305" y="25" key="CommitChangelistDialog2" timestamp="1607557348687">
       <screen x="0" y="25" width="1440" height="777" />
     </state>
     <state x="305" y="23" key="CommitChangelistDialog2/0.23.1440.784/1440.23.1920.1057@0.23.1440.784" timestamp="1606782763072" />
@@ -532,8 +533,8 @@
     <state x="305" y="51" key="CommitChangelistDialog2/0.23.1440.877/1440.23.1920.977@0.23.1440.877" timestamp="1601311962895" />
     <state x="305" y="25" key="CommitChangelistDialog2/0.25.1440.777/1440.25.1920.1055@0.25.1440.777" timestamp="1607352369295" />
     <state x="1846" y="102" key="CommitChangelistDialog2/0.25.1440.777/1440.25.1920.1055@1440.25.1920.1055" timestamp="1607134105976" />
-    <state x="305" y="25" key="CommitChangelistDialog2/0.25.1440.777@0.25.1440.777" timestamp="1607438528720" />
-    <state x="299" y="203" key="Vcs.Push.Dialog.v2" timestamp="1607438537923">
+    <state x="305" y="25" key="CommitChangelistDialog2/0.25.1440.777@0.25.1440.777" timestamp="1607557348687" />
+    <state x="299" y="203" key="Vcs.Push.Dialog.v2" timestamp="1607557353381">
       <screen x="0" y="25" width="1440" height="777" />
     </state>
     <state x="299" y="202" key="Vcs.Push.Dialog.v2/0.23.1440.784/1440.23.1920.1057@0.23.1440.784" timestamp="1606782767462" />
@@ -548,6 +549,6 @@
     <state x="299" y="224" key="Vcs.Push.Dialog.v2/0.23.1440.877/1440.23.1920.977@0.23.1440.877" timestamp="1601311967257" />
     <state x="299" y="203" key="Vcs.Push.Dialog.v2/0.25.1440.777/1440.25.1920.1055@0.25.1440.777" timestamp="1607352373007" />
     <state x="1838" y="267" key="Vcs.Push.Dialog.v2/0.25.1440.777/1440.25.1920.1055@1440.25.1920.1055" timestamp="1607134110443" />
-    <state x="299" y="203" key="Vcs.Push.Dialog.v2/0.25.1440.777@0.25.1440.777" timestamp="1607438537923" />
+    <state x="299" y="203" key="Vcs.Push.Dialog.v2/0.25.1440.777@0.25.1440.777" timestamp="1607557353381" />
   </component>
 </project>
