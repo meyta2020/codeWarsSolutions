@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e5e45dc1-2447-4675-aa8d-f654676f54c4" name="Default Changelist" comment="" />
+    <list default="true" id="e5e45dc1-2447-4675-aa8d-f654676f54c4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Tidy Number (Special Numbers Series #9).js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -161,13 +164,8 @@
       <workItem from="1609800536719" duration="258000" />
       <workItem from="1609903467131" duration="172000" />
       <workItem from="1610074721724" duration="128000" />
-    </task>
-    <task id="LOCAL-00141" summary="Codewars solution &quot;Training JS #33: methods of Math---max() min() and abs()&quot;">
-      <created>1606494753532</created>
-      <option name="number" value="00141" />
-      <option name="presentableId" value="LOCAL-00141" />
-      <option name="project" value="LOCAL" />
-      <updated>1606494753532</updated>
+      <workItem from="1610152109345" duration="128000" />
+      <workItem from="1611288099526" duration="588000" />
     </task>
     <task id="LOCAL-00142" summary="Codewars solution &quot;Training JS #9: loop statement --while and do..while&quot;">
       <created>1606494841817</created>
@@ -505,14 +503,20 @@
       <option name="project" value="LOCAL" />
       <updated>1610074834430</updated>
     </task>
-    <option name="localTasksCounter" value="190" />
+    <task id="LOCAL-00190" summary="Codewars solution &quot;Custom Christmas Tree&quot;">
+      <created>1610152236078</created>
+      <option name="number" value="00190" />
+      <option name="presentableId" value="LOCAL-00190" />
+      <option name="project" value="LOCAL" />
+      <updated>1610152236078</updated>
+    </task>
+    <option name="localTasksCounter" value="191" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Codewars solution &quot;Array.diff&quot;" />
     <MESSAGE value="Codewars solution &quot;JavaScript Array Filter&quot;" />
     <MESSAGE value="Codewars solution &quot;Find numbers which are divisible by given number&quot;" />
     <MESSAGE value="Codewars solution &quot;Removing Elements&quot;" />
@@ -537,7 +541,8 @@
     <MESSAGE value="Codewars solution &quot;Complete The Pattern #3 (Horizontal Image of #2)&quot;" />
     <MESSAGE value="Codewars solution &quot;Complete The Pattern #4&quot;" />
     <MESSAGE value="Codewars solution &quot;Complete the matrix pattern&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Codewars solution &quot;Complete the matrix pattern&quot;" />
+    <MESSAGE value="Codewars solution &quot;Custom Christmas Tree&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Codewars solution &quot;Custom Christmas Tree&quot;" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2131" y="336" key="#Notifications" timestamp="1604190460294">
@@ -552,7 +557,7 @@
       <screen x="0" y="25" width="1440" height="777" />
     </state>
     <state x="334" y="154" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.25.1440.777/1440.25.1920.1055@0.25.1440.777" timestamp="1607885953840" />
-    <state x="305" y="25" key="CommitChangelistDialog2" timestamp="1610074834258">
+    <state x="305" y="25" key="CommitChangelistDialog2" timestamp="1610152235891">
       <screen x="0" y="25" width="1440" height="777" />
     </state>
     <state x="305" y="0" key="CommitChangelistDialog2/0.0.1440.900/1440.25.1920.1055@0.0.1440.900" timestamp="1608317445612" />
@@ -565,7 +570,7 @@
     <state x="1846" y="100" key="CommitChangelistDialog2/0.23.1440.797/1440.23.1920.1057@1440.23.1920.1057" timestamp="1603314713898" />
     <state x="305" y="23" key="CommitChangelistDialog2/0.23.1440.797@0.23.1440.797" timestamp="1603209106744" />
     <state x="1846" y="93" key="CommitChangelistDialog2/0.23.1440.877/1440.23.1920.964@1440.23.1920.964" timestamp="1605322710705" />
-    <state x="305" y="25" key="CommitChangelistDialog2/0.25.1440.777/1440.25.1920.1055@0.25.1440.777" timestamp="1609903640504" />
+    <state x="305" y="25" key="CommitChangelistDialog2/0.25.1440.777/1440.25.1920.1055@0.25.1440.777" timestamp="1610152235891" />
     <state x="1846" y="102" key="CommitChangelistDialog2/0.25.1440.777/1440.25.1920.1055@1440.25.1920.1055" timestamp="1609268145164" />
     <state x="305" y="25" key="CommitChangelistDialog2/0.25.1440.777/1440.25.1920.957@0.25.1440.777" timestamp="1610074834258" />
     <state x="305" y="25" key="CommitChangelistDialog2/0.25.1440.777@0.25.1440.777" timestamp="1609382229763" />
@@ -575,7 +580,7 @@
       <screen x="0" y="25" width="1440" height="777" />
     </state>
     <state x="236" y="49" key="SettingsEditor/0.25.1440.777@0.25.1440.777" timestamp="1608753756777" />
-    <state x="299" y="150" key="Vcs.Push.Dialog.v2" timestamp="1610074838117">
+    <state x="299" y="150" key="Vcs.Push.Dialog.v2" timestamp="1610152241429">
       <screen x="0" y="25" width="1440" height="777" />
     </state>
     <state x="299" y="145" key="Vcs.Push.Dialog.v2/0.0.1440.900/1440.25.1920.1055@0.0.1440.900" timestamp="1608317465134" />
@@ -588,7 +593,7 @@
     <state x="1838" y="265" key="Vcs.Push.Dialog.v2/0.23.1440.797/1440.23.1920.1057@1440.23.1920.1057" timestamp="1603314717328" />
     <state x="299" y="205" key="Vcs.Push.Dialog.v2/0.23.1440.797@0.23.1440.797" timestamp="1603209110442" />
     <state x="1838" y="244" key="Vcs.Push.Dialog.v2/0.23.1440.877/1440.23.1920.964@1440.23.1920.964" timestamp="1605322717221" />
-    <state x="299" y="150" key="Vcs.Push.Dialog.v2/0.25.1440.777/1440.25.1920.1055@0.25.1440.777" timestamp="1609903645598" />
+    <state x="299" y="150" key="Vcs.Push.Dialog.v2/0.25.1440.777/1440.25.1920.1055@0.25.1440.777" timestamp="1610152241429" />
     <state x="1838" y="267" key="Vcs.Push.Dialog.v2/0.25.1440.777/1440.25.1920.1055@1440.25.1920.1055" timestamp="1609268150136" />
     <state x="299" y="150" key="Vcs.Push.Dialog.v2/0.25.1440.777/1440.25.1920.957@0.25.1440.777" timestamp="1610074838117" />
     <state x="299" y="203" key="Vcs.Push.Dialog.v2/0.25.1440.777@0.25.1440.777" timestamp="1609382234690" />
