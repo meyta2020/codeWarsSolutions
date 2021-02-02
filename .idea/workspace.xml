@@ -163,20 +163,7 @@
       <workItem from="1610074721724" duration="128000" />
       <workItem from="1610152109345" duration="128000" />
       <workItem from="1611288099526" duration="740000" />
-    </task>
-    <task id="LOCAL-00143" summary="Codewars solution &quot;Grasshopper - Debug sayHello&quot;">
-      <created>1606494904529</created>
-      <option name="number" value="00143" />
-      <option name="presentableId" value="LOCAL-00143" />
-      <option name="project" value="LOCAL" />
-      <updated>1606494904529</updated>
-    </task>
-    <task id="LOCAL-00144" summary="Codewars solution &quot;Beginner Series #4 Cockroach&quot;">
-      <created>1606494976273</created>
-      <option name="number" value="00144" />
-      <option name="presentableId" value="LOCAL-00144" />
-      <option name="project" value="LOCAL" />
-      <updated>1606494976273</updated>
+      <workItem from="1611674917736" duration="215000" />
     </task>
     <task id="LOCAL-00145" summary="Codewars solution &quot;Mirror, mirror, on the wall...&quot;">
       <created>1606495230692</created>
@@ -507,15 +494,27 @@
       <option name="project" value="LOCAL" />
       <updated>1611288758141</updated>
     </task>
-    <option name="localTasksCounter" value="192" />
+    <task id="LOCAL-00192" summary="Codewars solution &quot;Numbers to Letters&quot;">
+      <created>1611675044946</created>
+      <option name="number" value="00192" />
+      <option name="presentableId" value="LOCAL-00192" />
+      <option name="project" value="LOCAL" />
+      <updated>1611675044947</updated>
+    </task>
+    <task id="LOCAL-00193" summary="Codewars solution &quot;First non-repeating character&quot;">
+      <created>1611675123381</created>
+      <option name="number" value="00193" />
+      <option name="presentableId" value="LOCAL-00193" />
+      <option name="project" value="LOCAL" />
+      <updated>1611675123381</updated>
+    </task>
+    <option name="localTasksCounter" value="194" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Codewars solution &quot;Find numbers which are divisible by given number&quot;" />
-    <MESSAGE value="Codewars solution &quot;Removing Elements&quot;" />
     <MESSAGE value="Codewars solution &quot;Friend or Foe?&quot;" />
     <MESSAGE value="Codewars solution &quot;Filter out the vowels&quot;" />
     <MESSAGE value="Codewars solution &quot;Well of Ideas - Easy Version&quot;" />
@@ -539,6 +538,8 @@
     <MESSAGE value="Codewars solution &quot;Complete the matrix pattern&quot;" />
     <MESSAGE value="Codewars solution &quot;Custom Christmas Tree&quot;" />
     <MESSAGE value="Codewars solution &quot;Tidy Number (Special Numbers Series #9)&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Codewars solution &quot;Tidy Number (Special Numbers Series #9)&quot;" />
+    <MESSAGE value="Codewars solution &quot;Numbers to Letters&quot;" />
+    <MESSAGE value="Codewars solution &quot;First non-repeating character&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Codewars solution &quot;First non-repeating character&quot;" />
   </component>
 </project>
