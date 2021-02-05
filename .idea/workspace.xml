@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e5e45dc1-2447-4675-aa8d-f654676f54c4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="e5e45dc1-2447-4675-aa8d-f654676f54c4" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -167,14 +165,7 @@
       <workItem from="1611288099526" duration="740000" />
       <workItem from="1611674917736" duration="215000" />
       <workItem from="1612236763481" duration="132000" />
-      <workItem from="1612389568596" duration="596000" />
-    </task>
-    <task id="LOCAL-00146" summary="Codewars solution &quot;Mirror, mirror, on the wall...&quot;">
-      <created>1606496697772</created>
-      <option name="number" value="00146" />
-      <option name="presentableId" value="LOCAL-00146" />
-      <option name="project" value="LOCAL" />
-      <updated>1606496697772</updated>
+      <workItem from="1612389568596" duration="661000" />
     </task>
     <task id="LOCAL-00147" summary="Codewars solution &quot;Returning Strings&quot;">
       <created>1606614698039</created>
@@ -512,14 +503,20 @@
       <option name="project" value="LOCAL" />
       <updated>1612236879769</updated>
     </task>
-    <option name="localTasksCounter" value="195" />
+    <task id="LOCAL-00195" summary="Codewars solution &quot;Fruit string calculator&quot;">
+      <created>1612393004445</created>
+      <option name="number" value="00195" />
+      <option name="presentableId" value="LOCAL-00195" />
+      <option name="project" value="LOCAL" />
+      <updated>1612393004445</updated>
+    </task>
+    <option name="localTasksCounter" value="196" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Codewars solution &quot;Filter out the vowels&quot;" />
     <MESSAGE value="Codewars solution &quot;Well of Ideas - Easy Version&quot;" />
     <MESSAGE value="Codewars solution &quot;Highest and Lowest&quot;" />
     <MESSAGE value="Codewars solution &quot;&#10;Find the unique number&quot;" />
@@ -544,6 +541,7 @@
     <MESSAGE value="Codewars solution &quot;Numbers to Letters&quot;" />
     <MESSAGE value="Codewars solution &quot;First non-repeating character&quot;" />
     <MESSAGE value="Codewars solution &quot;How much coffee do you need?&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Codewars solution &quot;How much coffee do you need?&quot;" />
+    <MESSAGE value="Codewars solution &quot;Fruit string calculator&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Codewars solution &quot;Fruit string calculator&quot;" />
   </component>
 </project>
