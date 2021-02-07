@@ -166,13 +166,7 @@
       <workItem from="1611674917736" duration="215000" />
       <workItem from="1612236763481" duration="132000" />
       <workItem from="1612389568596" duration="661000" />
-    </task>
-    <task id="LOCAL-00147" summary="Codewars solution &quot;Returning Strings&quot;">
-      <created>1606614698039</created>
-      <option name="number" value="00147" />
-      <option name="presentableId" value="LOCAL-00147" />
-      <option name="project" value="LOCAL" />
-      <updated>1606614698039</updated>
+      <workItem from="1612537307573" duration="120000" />
     </task>
     <task id="LOCAL-00148" summary="Codewars solution &quot;The Skiponacci Sequence&quot;">
       <created>1606614799136</created>
@@ -510,14 +504,20 @@
       <option name="project" value="LOCAL" />
       <updated>1612393004445</updated>
     </task>
-    <option name="localTasksCounter" value="196" />
+    <task id="LOCAL-00196" summary="Codewars solution &quot;Remove the time&quot;">
+      <created>1612537413855</created>
+      <option name="number" value="00196" />
+      <option name="presentableId" value="LOCAL-00196" />
+      <option name="project" value="LOCAL" />
+      <updated>1612537413857</updated>
+    </task>
+    <option name="localTasksCounter" value="197" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Codewars solution &quot;Well of Ideas - Easy Version&quot;" />
     <MESSAGE value="Codewars solution &quot;Highest and Lowest&quot;" />
     <MESSAGE value="Codewars solution &quot;&#10;Find the unique number&quot;" />
     <MESSAGE value="Codewars solution &quot;Largest pair sum in array&quot;" />
@@ -542,6 +542,7 @@
     <MESSAGE value="Codewars solution &quot;First non-repeating character&quot;" />
     <MESSAGE value="Codewars solution &quot;How much coffee do you need?&quot;" />
     <MESSAGE value="Codewars solution &quot;Fruit string calculator&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Codewars solution &quot;Fruit string calculator&quot;" />
+    <MESSAGE value="Codewars solution &quot;Remove the time&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Codewars solution &quot;Remove the time&quot;" />
   </component>
 </project>
