@@ -167,13 +167,7 @@
       <workItem from="1612236763481" duration="132000" />
       <workItem from="1612389568596" duration="661000" />
       <workItem from="1612537307573" duration="120000" />
-    </task>
-    <task id="LOCAL-00148" summary="Codewars solution &quot;The Skiponacci Sequence&quot;">
-      <created>1606614799136</created>
-      <option name="number" value="00148" />
-      <option name="presentableId" value="LOCAL-00148" />
-      <option name="project" value="LOCAL" />
-      <updated>1606614799136</updated>
+      <workItem from="1612734320868" duration="169000" />
     </task>
     <task id="LOCAL-00149" summary="Codewars solution &quot;Training JS #11: loop statement --break,continue&quot;">
       <created>1606676606992</created>
@@ -511,14 +505,20 @@
       <option name="project" value="LOCAL" />
       <updated>1612537413857</updated>
     </task>
-    <option name="localTasksCounter" value="197" />
+    <task id="LOCAL-00197" summary="Codewars solution &quot;Do you speak retsec?&quot;">
+      <created>1612734485080</created>
+      <option name="number" value="00197" />
+      <option name="presentableId" value="LOCAL-00197" />
+      <option name="project" value="LOCAL" />
+      <updated>1612734485080</updated>
+    </task>
+    <option name="localTasksCounter" value="198" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Codewars solution &quot;Highest and Lowest&quot;" />
     <MESSAGE value="Codewars solution &quot;&#10;Find the unique number&quot;" />
     <MESSAGE value="Codewars solution &quot;Largest pair sum in array&quot;" />
     <MESSAGE value="Codewars solution &quot;Descending Order&quot;" />
@@ -543,6 +543,7 @@
     <MESSAGE value="Codewars solution &quot;How much coffee do you need?&quot;" />
     <MESSAGE value="Codewars solution &quot;Fruit string calculator&quot;" />
     <MESSAGE value="Codewars solution &quot;Remove the time&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Codewars solution &quot;Remove the time&quot;" />
+    <MESSAGE value="Codewars solution &quot;Do you speak retsec?&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Codewars solution &quot;Do you speak retsec?&quot;" />
   </component>
 </project>
