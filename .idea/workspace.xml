@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e5e45dc1-2447-4675-aa8d-f654676f54c4" name="Default Changelist" comment="" />
+    <list default="true" id="e5e45dc1-2447-4675-aa8d-f654676f54c4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -168,13 +170,8 @@
       <workItem from="1612389568596" duration="661000" />
       <workItem from="1612537307573" duration="120000" />
       <workItem from="1612734320868" duration="169000" />
-    </task>
-    <task id="LOCAL-00149" summary="Codewars solution &quot;Training JS #11: loop statement --break,continue&quot;">
-      <created>1606676606992</created>
-      <option name="number" value="00149" />
-      <option name="presentableId" value="LOCAL-00149" />
-      <option name="project" value="LOCAL" />
-      <updated>1606676606993</updated>
+      <workItem from="1612799714367" duration="103000" />
+      <workItem from="1612799878455" duration="69000" />
     </task>
     <task id="LOCAL-00150" summary="Codewars solution &quot;My head is at the wrong end!&quot;">
       <created>1606676684016</created>
@@ -512,14 +509,20 @@
       <option name="project" value="LOCAL" />
       <updated>1612734485080</updated>
     </task>
-    <option name="localTasksCounter" value="198" />
+    <task id="LOCAL-00198" summary="Codewars solution &quot;All Star Code Challenge #15&quot;">
+      <created>1612799800103</created>
+      <option name="number" value="00198" />
+      <option name="presentableId" value="LOCAL-00198" />
+      <option name="project" value="LOCAL" />
+      <updated>1612799800104</updated>
+    </task>
+    <option name="localTasksCounter" value="199" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Codewars solution &quot;&#10;Find the unique number&quot;" />
     <MESSAGE value="Codewars solution &quot;Largest pair sum in array&quot;" />
     <MESSAGE value="Codewars solution &quot;Descending Order&quot;" />
     <MESSAGE value="Codewars solution &quot;Sort array by string length&quot;" />
@@ -544,6 +547,7 @@
     <MESSAGE value="Codewars solution &quot;Fruit string calculator&quot;" />
     <MESSAGE value="Codewars solution &quot;Remove the time&quot;" />
     <MESSAGE value="Codewars solution &quot;Do you speak retsec?&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Codewars solution &quot;Do you speak retsec?&quot;" />
+    <MESSAGE value="Codewars solution &quot;All Star Code Challenge #15&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Codewars solution &quot;All Star Code Challenge #15&quot;" />
   </component>
 </project>
