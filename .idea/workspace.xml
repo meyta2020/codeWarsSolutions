@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e5e45dc1-2447-4675-aa8d-f654676f54c4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="e5e45dc1-2447-4675-aa8d-f654676f54c4" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -172,13 +170,7 @@
       <workItem from="1612734320868" duration="169000" />
       <workItem from="1612799714367" duration="103000" />
       <workItem from="1612799878455" duration="69000" />
-    </task>
-    <task id="LOCAL-00150" summary="Codewars solution &quot;My head is at the wrong end!&quot;">
-      <created>1606676684016</created>
-      <option name="number" value="00150" />
-      <option name="presentableId" value="LOCAL-00150" />
-      <option name="project" value="LOCAL" />
-      <updated>1606676684016</updated>
+      <workItem from="1612800116737" duration="186000" />
     </task>
     <task id="LOCAL-00151" summary="Codewars solution &quot;Convert number to reversed array of digits&quot;">
       <created>1606676767958</created>
@@ -516,14 +508,20 @@
       <option name="project" value="LOCAL" />
       <updated>1612799800104</updated>
     </task>
-    <option name="localTasksCounter" value="199" />
+    <task id="LOCAL-00199" summary="Codewars solution &quot;Remove exclamation marks&quot;">
+      <created>1612800277441</created>
+      <option name="number" value="00199" />
+      <option name="presentableId" value="LOCAL-00199" />
+      <option name="project" value="LOCAL" />
+      <updated>1612800277441</updated>
+    </task>
+    <option name="localTasksCounter" value="200" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Codewars solution &quot;Largest pair sum in array&quot;" />
     <MESSAGE value="Codewars solution &quot;Descending Order&quot;" />
     <MESSAGE value="Codewars solution &quot;Sort array by string length&quot;" />
     <MESSAGE value="Codewars solution &quot;Sort Santa's Reindeer&quot;" />
@@ -548,6 +546,7 @@
     <MESSAGE value="Codewars solution &quot;Remove the time&quot;" />
     <MESSAGE value="Codewars solution &quot;Do you speak retsec?&quot;" />
     <MESSAGE value="Codewars solution &quot;All Star Code Challenge #15&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Codewars solution &quot;All Star Code Challenge #15&quot;" />
+    <MESSAGE value="Codewars solution &quot;Remove exclamation marks&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Codewars solution &quot;Remove exclamation marks&quot;" />
   </component>
 </project>
