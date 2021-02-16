@@ -175,13 +175,7 @@
       <workItem from="1612971108282" duration="213000" />
       <workItem from="1613065911542" duration="131000" />
       <workItem from="1613187473445" duration="118000" />
-    </task>
-    <task id="LOCAL-00155" summary="Codewars solution &quot;A wolf in sheep's clothing&quot;">
-      <created>1606927620651</created>
-      <option name="number" value="00155" />
-      <option name="presentableId" value="LOCAL-00155" />
-      <option name="project" value="LOCAL" />
-      <updated>1606927620652</updated>
+      <workItem from="1613252374098" duration="141000" />
     </task>
     <task id="LOCAL-00156" summary="Codewars solution &quot;Beginner - Lost Without a Map&quot;">
       <created>1607029653042</created>
@@ -519,14 +513,20 @@
       <option name="project" value="LOCAL" />
       <updated>1613187579670</updated>
     </task>
-    <option name="localTasksCounter" value="204" />
+    <task id="LOCAL-00204" summary="Codewars solution &quot;The Ladies of ENIAC&quot;">
+      <created>1613252503158</created>
+      <option name="number" value="00204" />
+      <option name="presentableId" value="LOCAL-00204" />
+      <option name="project" value="LOCAL" />
+      <updated>1613252503159</updated>
+    </task>
+    <option name="localTasksCounter" value="205" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Codewars solution &quot;Training JS #29: methods of arrayObject---concat() and join()&quot;" />
     <MESSAGE value="Codewars solution &quot;Filter Coffee&quot;" />
     <MESSAGE value="Codewars solution &quot;Sort by Last Char&quot;" />
     <MESSAGE value="Codewars solution &quot;Form The Minimum&quot;" />
@@ -551,6 +551,7 @@
     <MESSAGE value="Codewars solution &quot;Switcheroo&quot;" />
     <MESSAGE value="Codewars solution &quot;The Vowel Code&quot;" />
     <MESSAGE value="Codewars solution &quot;Correct the mistakes of the character recognition&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Codewars solution &quot;Correct the mistakes of the character recognition&quot;" />
+    <MESSAGE value="Codewars solution &quot;The Ladies of ENIAC&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Codewars solution &quot;The Ladies of ENIAC&quot;" />
   </component>
 </project>
