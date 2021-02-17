@@ -176,13 +176,7 @@
       <workItem from="1613065911542" duration="131000" />
       <workItem from="1613187473445" duration="118000" />
       <workItem from="1613252374098" duration="141000" />
-    </task>
-    <task id="LOCAL-00156" summary="Codewars solution &quot;Beginner - Lost Without a Map&quot;">
-      <created>1607029653042</created>
-      <option name="number" value="00156" />
-      <option name="presentableId" value="LOCAL-00156" />
-      <option name="project" value="LOCAL" />
-      <updated>1607029653042</updated>
+      <workItem from="1613509059651" duration="187000" />
     </task>
     <task id="LOCAL-00157" summary="Codewars solution &quot;Convert an array of strings to array of numbers&quot;">
       <created>1607134106190</created>
@@ -520,14 +514,20 @@
       <option name="project" value="LOCAL" />
       <updated>1613252503159</updated>
     </task>
-    <option name="localTasksCounter" value="205" />
+    <task id="LOCAL-00205" summary="Codewars solution &quot;Complementary DNA&quot;">
+      <created>1613509143788</created>
+      <option name="number" value="00205" />
+      <option name="presentableId" value="LOCAL-00205" />
+      <option name="project" value="LOCAL" />
+      <updated>1613509143788</updated>
+    </task>
+    <option name="localTasksCounter" value="206" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Codewars solution &quot;Filter Coffee&quot;" />
     <MESSAGE value="Codewars solution &quot;Sort by Last Char&quot;" />
     <MESSAGE value="Codewars solution &quot;Form The Minimum&quot;" />
     <MESSAGE value="Codewars solution &quot;Multiplication table&quot;" />
@@ -552,6 +552,7 @@
     <MESSAGE value="Codewars solution &quot;The Vowel Code&quot;" />
     <MESSAGE value="Codewars solution &quot;Correct the mistakes of the character recognition&quot;" />
     <MESSAGE value="Codewars solution &quot;The Ladies of ENIAC&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Codewars solution &quot;The Ladies of ENIAC&quot;" />
+    <MESSAGE value="Codewars solution &quot;Complementary DNA&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Codewars solution &quot;Complementary DNA&quot;" />
   </component>
 </project>
