@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e5e45dc1-2447-4675-aa8d-f654676f54c4" name="Default Changelist" comment="" />
+    <list default="true" id="e5e45dc1-2447-4675-aa8d-f654676f54c4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Vowel one.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -177,13 +180,8 @@
       <workItem from="1613187473445" duration="118000" />
       <workItem from="1613252374098" duration="141000" />
       <workItem from="1613509059651" duration="187000" />
-    </task>
-    <task id="LOCAL-00157" summary="Codewars solution &quot;Convert an array of strings to array of numbers&quot;">
-      <created>1607134106190</created>
-      <option name="number" value="00157" />
-      <option name="presentableId" value="LOCAL-00157" />
-      <option name="project" value="LOCAL" />
-      <updated>1607134106191</updated>
+      <workItem from="1613599563899" duration="143000" />
+      <workItem from="1613670602234" duration="185000" />
     </task>
     <task id="LOCAL-00158" summary="Codewars solution &quot;No Loops 2 - You only need one&quot;">
       <created>1607186613177</created>
@@ -521,14 +519,20 @@
       <option name="project" value="LOCAL" />
       <updated>1613509143788</updated>
     </task>
-    <option name="localTasksCounter" value="206" />
+    <task id="LOCAL-00206" summary="Codewars solution &quot;Polish alphabet&quot;">
+      <created>1613599695282</created>
+      <option name="number" value="00206" />
+      <option name="presentableId" value="LOCAL-00206" />
+      <option name="project" value="LOCAL" />
+      <updated>1613599695283</updated>
+    </task>
+    <option name="localTasksCounter" value="207" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Codewars solution &quot;Sort by Last Char&quot;" />
     <MESSAGE value="Codewars solution &quot;Form The Minimum&quot;" />
     <MESSAGE value="Codewars solution &quot;Multiplication table&quot;" />
     <MESSAGE value="Codewars solution &quot;Complete The Pattern #1&quot;" />
@@ -553,6 +557,7 @@
     <MESSAGE value="Codewars solution &quot;Correct the mistakes of the character recognition&quot;" />
     <MESSAGE value="Codewars solution &quot;The Ladies of ENIAC&quot;" />
     <MESSAGE value="Codewars solution &quot;Complementary DNA&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Codewars solution &quot;Complementary DNA&quot;" />
+    <MESSAGE value="Codewars solution &quot;Polish alphabet&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Codewars solution &quot;Polish alphabet&quot;" />
   </component>
 </project>
