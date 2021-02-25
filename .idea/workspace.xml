@@ -179,13 +179,7 @@
       <workItem from="1613509059651" duration="187000" />
       <workItem from="1613599563899" duration="143000" />
       <workItem from="1613670602234" duration="205000" />
-    </task>
-    <task id="LOCAL-00159" summary="Codewars solution &quot;You only need one - Beginner&quot;">
-      <created>1607186680882</created>
-      <option name="number" value="00159" />
-      <option name="presentableId" value="LOCAL-00159" />
-      <option name="project" value="LOCAL" />
-      <updated>1607186680883</updated>
+      <workItem from="1614099333820" duration="256000" />
     </task>
     <task id="LOCAL-00160" summary="Codewars solution &quot;Take an Arrow to the knee, Functionally&quot;">
       <created>1607309925834</created>
@@ -523,14 +517,20 @@
       <option name="project" value="LOCAL" />
       <updated>1613670910413</updated>
     </task>
-    <option name="localTasksCounter" value="208" />
+    <task id="LOCAL-00208" summary="Codewars solution &quot;Start with a Vowel&quot;">
+      <created>1614099563009</created>
+      <option name="number" value="00208" />
+      <option name="presentableId" value="LOCAL-00208" />
+      <option name="project" value="LOCAL" />
+      <updated>1614099563009</updated>
+    </task>
+    <option name="localTasksCounter" value="209" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Codewars solution &quot;Multiplication table&quot;" />
     <MESSAGE value="Codewars solution &quot;Complete The Pattern #1&quot;" />
     <MESSAGE value="Codewars solution &quot;Complete The Pattern #2&quot;" />
     <MESSAGE value="Codewars solution &quot;Walk-up Stairs&quot;" />
@@ -555,6 +555,7 @@
     <MESSAGE value="Codewars solution &quot;Complementary DNA&quot;" />
     <MESSAGE value="Codewars solution &quot;Polish alphabet&quot;" />
     <MESSAGE value="Codewars solution &quot;Vowel one&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Codewars solution &quot;Vowel one&quot;" />
+    <MESSAGE value="Codewars solution &quot;Start with a Vowel&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Codewars solution &quot;Start with a Vowel&quot;" />
   </component>
 </project>
