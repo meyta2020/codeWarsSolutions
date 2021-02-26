@@ -181,13 +181,7 @@
       <workItem from="1613670602234" duration="205000" />
       <workItem from="1614099333820" duration="256000" />
       <workItem from="1614212096394" duration="80000" />
-    </task>
-    <task id="LOCAL-00161" summary="Codewars solution &quot;filterEvenLengthWords&quot;">
-      <created>1607352369481</created>
-      <option name="number" value="00161" />
-      <option name="presentableId" value="LOCAL-00161" />
-      <option name="project" value="LOCAL" />
-      <updated>1607352369482</updated>
+      <workItem from="1614285611520" duration="101000" />
     </task>
     <task id="LOCAL-00162" summary="Codewars solution &quot;Find the lucky numbers&quot;">
       <created>1607438528926</created>
@@ -525,14 +519,20 @@
       <option name="project" value="LOCAL" />
       <updated>1614212159164</updated>
     </task>
-    <option name="localTasksCounter" value="210" />
+    <task id="LOCAL-00210" summary="Codewars solution &quot;Function 2 - squaring an argument&quot;">
+      <created>1614285685638</created>
+      <option name="number" value="00210" />
+      <option name="presentableId" value="LOCAL-00210" />
+      <option name="project" value="LOCAL" />
+      <updated>1614285685639</updated>
+    </task>
+    <option name="localTasksCounter" value="211" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Codewars solution &quot;Complete The Pattern #2&quot;" />
     <MESSAGE value="Codewars solution &quot;Walk-up Stairs&quot;" />
     <MESSAGE value="Codewars solution &quot;Complete The Pattern #3 (Horizontal Image of #2)&quot;" />
     <MESSAGE value="Codewars solution &quot;Complete The Pattern #4&quot;" />
@@ -557,6 +557,7 @@
     <MESSAGE value="Codewars solution &quot;Vowel one&quot;" />
     <MESSAGE value="Codewars solution &quot;Start with a Vowel&quot;" />
     <MESSAGE value="Codewars solution &quot;Make a function that does arithmetic!&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Codewars solution &quot;Make a function that does arithmetic!&quot;" />
+    <MESSAGE value="Codewars solution &quot;Function 2 - squaring an argument&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Codewars solution &quot;Function 2 - squaring an argument&quot;" />
   </component>
 </project>
