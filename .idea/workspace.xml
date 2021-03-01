@@ -182,13 +182,7 @@
       <workItem from="1614099333820" duration="256000" />
       <workItem from="1614212096394" duration="80000" />
       <workItem from="1614285611520" duration="101000" />
-    </task>
-    <task id="LOCAL-00162" summary="Codewars solution &quot;Find the lucky numbers&quot;">
-      <created>1607438528926</created>
-      <option name="number" value="00162" />
-      <option name="presentableId" value="LOCAL-00162" />
-      <option name="project" value="LOCAL" />
-      <updated>1607438528927</updated>
+      <workItem from="1614350063350" duration="107000" />
     </task>
     <task id="LOCAL-00163" summary="Codewars solution &quot;Filter out the geese&quot;">
       <created>1607557275224</created>
@@ -526,14 +520,20 @@
       <option name="project" value="LOCAL" />
       <updated>1614285685639</updated>
     </task>
-    <option name="localTasksCounter" value="211" />
+    <task id="LOCAL-00211" summary="Codewars solution &quot;You Can't Code Under Pressure #1&quot;">
+      <created>1614350158927</created>
+      <option name="number" value="00211" />
+      <option name="presentableId" value="LOCAL-00211" />
+      <option name="project" value="LOCAL" />
+      <updated>1614350158928</updated>
+    </task>
+    <option name="localTasksCounter" value="212" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Codewars solution &quot;Walk-up Stairs&quot;" />
     <MESSAGE value="Codewars solution &quot;Complete The Pattern #3 (Horizontal Image of #2)&quot;" />
     <MESSAGE value="Codewars solution &quot;Complete The Pattern #4&quot;" />
     <MESSAGE value="Codewars solution &quot;Complete the matrix pattern&quot;" />
@@ -558,6 +558,7 @@
     <MESSAGE value="Codewars solution &quot;Start with a Vowel&quot;" />
     <MESSAGE value="Codewars solution &quot;Make a function that does arithmetic!&quot;" />
     <MESSAGE value="Codewars solution &quot;Function 2 - squaring an argument&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Codewars solution &quot;Function 2 - squaring an argument&quot;" />
+    <MESSAGE value="Codewars solution &quot;You Can't Code Under Pressure #1&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Codewars solution &quot;You Can't Code Under Pressure #1&quot;" />
   </component>
 </project>
