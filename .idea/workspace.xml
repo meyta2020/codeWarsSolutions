@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e5e45dc1-2447-4675-aa8d-f654676f54c4" name="Default Changelist" comment="" />
+    <list default="true" id="e5e45dc1-2447-4675-aa8d-f654676f54c4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Hello World.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,6 +26,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
@@ -183,13 +187,8 @@
       <workItem from="1614212096394" duration="80000" />
       <workItem from="1614285611520" duration="101000" />
       <workItem from="1614350063350" duration="107000" />
-    </task>
-    <task id="LOCAL-00163" summary="Codewars solution &quot;Filter out the geese&quot;">
-      <created>1607557275224</created>
-      <option name="number" value="00163" />
-      <option name="presentableId" value="LOCAL-00163" />
-      <option name="project" value="LOCAL" />
-      <updated>1607557275224</updated>
+      <workItem from="1614634536859" duration="255000" />
+      <workItem from="1614784359710" duration="591000" />
     </task>
     <task id="LOCAL-00164" summary="Codewars solution &quot;List Filtering&quot;">
       <created>1607557348805</created>
@@ -527,14 +526,20 @@
       <option name="project" value="LOCAL" />
       <updated>1614350158928</updated>
     </task>
-    <option name="localTasksCounter" value="212" />
+    <task id="LOCAL-00212" summary="Codewars solution &quot;Who ate the cookie?&quot;">
+      <created>1614634778417</created>
+      <option name="number" value="00212" />
+      <option name="presentableId" value="LOCAL-00212" />
+      <option name="project" value="LOCAL" />
+      <updated>1614634778418</updated>
+    </task>
+    <option name="localTasksCounter" value="213" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Codewars solution &quot;Complete The Pattern #3 (Horizontal Image of #2)&quot;" />
     <MESSAGE value="Codewars solution &quot;Complete The Pattern #4&quot;" />
     <MESSAGE value="Codewars solution &quot;Complete the matrix pattern&quot;" />
     <MESSAGE value="Codewars solution &quot;Custom Christmas Tree&quot;" />
@@ -559,6 +564,7 @@
     <MESSAGE value="Codewars solution &quot;Make a function that does arithmetic!&quot;" />
     <MESSAGE value="Codewars solution &quot;Function 2 - squaring an argument&quot;" />
     <MESSAGE value="Codewars solution &quot;You Can't Code Under Pressure #1&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Codewars solution &quot;You Can't Code Under Pressure #1&quot;" />
+    <MESSAGE value="Codewars solution &quot;Who ate the cookie?&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Codewars solution &quot;Who ate the cookie?&quot;" />
   </component>
 </project>
