@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e5e45dc1-2447-4675-aa8d-f654676f54c4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/How old will I be in 2099?.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="e5e45dc1-2447-4675-aa8d-f654676f54c4" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -190,14 +187,7 @@
       <workItem from="1614634536859" duration="255000" />
       <workItem from="1614784359710" duration="646000" />
       <workItem from="1614900367222" duration="229000" />
-      <workItem from="1615389482102" duration="327000" />
-    </task>
-    <task id="LOCAL-00166" summary="Codewars solution &quot;JavaScript Array Filter&quot;">
-      <created>1607618686390</created>
-      <option name="number" value="00166" />
-      <option name="presentableId" value="LOCAL-00166" />
-      <option name="project" value="LOCAL" />
-      <updated>1607618686390</updated>
+      <workItem from="1615389482102" duration="400000" />
     </task>
     <task id="LOCAL-00167" summary="Codewars solution &quot;Find numbers which are divisible by given number&quot;">
       <created>1607746797361</created>
@@ -535,14 +525,20 @@
       <option name="project" value="LOCAL" />
       <updated>1614900606373</updated>
     </task>
-    <option name="localTasksCounter" value="215" />
+    <task id="LOCAL-00215" summary="Codewars solution &quot;How old will I be in 2099?&quot;">
+      <created>1615389875851</created>
+      <option name="number" value="00215" />
+      <option name="presentableId" value="LOCAL-00215" />
+      <option name="project" value="LOCAL" />
+      <updated>1615389875853</updated>
+    </task>
+    <option name="localTasksCounter" value="216" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Codewars solution &quot;Custom Christmas Tree&quot;" />
     <MESSAGE value="Codewars solution &quot;Tidy Number (Special Numbers Series #9)&quot;" />
     <MESSAGE value="Codewars solution &quot;Numbers to Letters&quot;" />
     <MESSAGE value="Codewars solution &quot;First non-repeating character&quot;" />
@@ -567,6 +563,7 @@
     <MESSAGE value="Codewars solution &quot;Who ate the cookie?&quot;" />
     <MESSAGE value="Codewars solution &quot;Hello World&quot;" />
     <MESSAGE value="Codewars solution &quot;Debug Basic Calculator&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Codewars solution &quot;Debug Basic Calculator&quot;" />
+    <MESSAGE value="Codewars solution &quot;How old will I be in 2099?&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Codewars solution &quot;How old will I be in 2099?&quot;" />
   </component>
 </project>
