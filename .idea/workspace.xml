@@ -188,13 +188,7 @@
       <workItem from="1614784359710" duration="646000" />
       <workItem from="1614900367222" duration="229000" />
       <workItem from="1615389482102" duration="400000" />
-    </task>
-    <task id="LOCAL-00167" summary="Codewars solution &quot;Find numbers which are divisible by given number&quot;">
-      <created>1607746797361</created>
-      <option name="number" value="00167" />
-      <option name="presentableId" value="LOCAL-00167" />
-      <option name="project" value="LOCAL" />
-      <updated>1607746797362</updated>
+      <workItem from="1615507348421" duration="103000" />
     </task>
     <task id="LOCAL-00168" summary="Codewars solution &quot;Removing Elements&quot;">
       <created>1607810534993</created>
@@ -532,14 +526,20 @@
       <option name="project" value="LOCAL" />
       <updated>1615389875853</updated>
     </task>
-    <option name="localTasksCounter" value="216" />
+    <task id="LOCAL-00216" summary="Codewars solution &quot;Heads and Legs&quot;">
+      <created>1615507441751</created>
+      <option name="number" value="00216" />
+      <option name="presentableId" value="LOCAL-00216" />
+      <option name="project" value="LOCAL" />
+      <updated>1615507441753</updated>
+    </task>
+    <option name="localTasksCounter" value="217" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Codewars solution &quot;Tidy Number (Special Numbers Series #9)&quot;" />
     <MESSAGE value="Codewars solution &quot;Numbers to Letters&quot;" />
     <MESSAGE value="Codewars solution &quot;First non-repeating character&quot;" />
     <MESSAGE value="Codewars solution &quot;How much coffee do you need?&quot;" />
@@ -564,6 +564,7 @@
     <MESSAGE value="Codewars solution &quot;Hello World&quot;" />
     <MESSAGE value="Codewars solution &quot;Debug Basic Calculator&quot;" />
     <MESSAGE value="Codewars solution &quot;How old will I be in 2099?&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Codewars solution &quot;How old will I be in 2099?&quot;" />
+    <MESSAGE value="Codewars solution &quot;Heads and Legs&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Codewars solution &quot;Heads and Legs&quot;" />
   </component>
 </project>
