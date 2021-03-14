@@ -189,13 +189,7 @@
       <workItem from="1614900367222" duration="229000" />
       <workItem from="1615389482102" duration="400000" />
       <workItem from="1615507348421" duration="103000" />
-    </task>
-    <task id="LOCAL-00168" summary="Codewars solution &quot;Removing Elements&quot;">
-      <created>1607810534993</created>
-      <option name="number" value="00168" />
-      <option name="presentableId" value="LOCAL-00168" />
-      <option name="project" value="LOCAL" />
-      <updated>1607810534994</updated>
+      <workItem from="1615568172797" duration="83000" />
     </task>
     <task id="LOCAL-00169" summary="Codewars solution &quot;Friend or Foe?&quot;">
       <created>1607885858063</created>
@@ -533,14 +527,20 @@
       <option name="project" value="LOCAL" />
       <updated>1615507441753</updated>
     </task>
-    <option name="localTasksCounter" value="217" />
+    <task id="LOCAL-00217" summary="Codewars solution &quot;Thinkful - Number Drills: Blue and red marbles&quot;">
+      <created>1615568243070</created>
+      <option name="number" value="00217" />
+      <option name="presentableId" value="LOCAL-00217" />
+      <option name="project" value="LOCAL" />
+      <updated>1615568243071</updated>
+    </task>
+    <option name="localTasksCounter" value="218" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Codewars solution &quot;Numbers to Letters&quot;" />
     <MESSAGE value="Codewars solution &quot;First non-repeating character&quot;" />
     <MESSAGE value="Codewars solution &quot;How much coffee do you need?&quot;" />
     <MESSAGE value="Codewars solution &quot;Fruit string calculator&quot;" />
@@ -565,6 +565,7 @@
     <MESSAGE value="Codewars solution &quot;Debug Basic Calculator&quot;" />
     <MESSAGE value="Codewars solution &quot;How old will I be in 2099?&quot;" />
     <MESSAGE value="Codewars solution &quot;Heads and Legs&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Codewars solution &quot;Heads and Legs&quot;" />
+    <MESSAGE value="Codewars solution &quot;Thinkful - Number Drills: Blue and red marbles&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Codewars solution &quot;Thinkful - Number Drills: Blue and red marbles&quot;" />
   </component>
 </project>
