@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e5e45dc1-2447-4675-aa8d-f654676f54c4" name="Default Changelist" comment="" />
+    <list default="true" id="e5e45dc1-2447-4675-aa8d-f654676f54c4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -190,13 +192,11 @@
       <workItem from="1615389482102" duration="400000" />
       <workItem from="1615507348421" duration="103000" />
       <workItem from="1615568172797" duration="83000" />
-    </task>
-    <task id="LOCAL-00169" summary="Codewars solution &quot;Friend or Foe?&quot;">
-      <created>1607885858063</created>
-      <option name="number" value="00169" />
-      <option name="presentableId" value="LOCAL-00169" />
-      <option name="project" value="LOCAL" />
-      <updated>1607885858063</updated>
+      <workItem from="1615693753911" duration="147000" />
+      <workItem from="1615693939786" duration="641000" />
+      <workItem from="1615695195751" duration="10000" />
+      <workItem from="1615695316427" duration="14000" />
+      <workItem from="1615695430393" duration="193000" />
     </task>
     <task id="LOCAL-00170" summary="Codewars solution &quot;Filter out the vowels&quot;">
       <created>1607885936396</created>
@@ -534,14 +534,20 @@
       <option name="project" value="LOCAL" />
       <updated>1615568243071</updated>
     </task>
-    <option name="localTasksCounter" value="218" />
+    <task id="LOCAL-00218" summary="Codewars solution &quot;Multiply the strings in the array&quot;">
+      <created>1615693832277</created>
+      <option name="number" value="00218" />
+      <option name="presentableId" value="LOCAL-00218" />
+      <option name="project" value="LOCAL" />
+      <updated>1615693832277</updated>
+    </task>
+    <option name="localTasksCounter" value="219" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Codewars solution &quot;First non-repeating character&quot;" />
     <MESSAGE value="Codewars solution &quot;How much coffee do you need?&quot;" />
     <MESSAGE value="Codewars solution &quot;Fruit string calculator&quot;" />
     <MESSAGE value="Codewars solution &quot;Remove the time&quot;" />
@@ -566,6 +572,7 @@
     <MESSAGE value="Codewars solution &quot;How old will I be in 2099?&quot;" />
     <MESSAGE value="Codewars solution &quot;Heads and Legs&quot;" />
     <MESSAGE value="Codewars solution &quot;Thinkful - Number Drills: Blue and red marbles&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Codewars solution &quot;Thinkful - Number Drills: Blue and red marbles&quot;" />
+    <MESSAGE value="Codewars solution &quot;Multiply the strings in the array&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Codewars solution &quot;Multiply the strings in the array&quot;" />
   </component>
 </project>
