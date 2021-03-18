@@ -198,13 +198,7 @@
       <workItem from="1615774245349" duration="266000" />
       <workItem from="1615844081659" duration="262000" />
       <workItem from="1615945527494" duration="208000" />
-    </task>
-    <task id="LOCAL-00173" summary="Codewars solution &quot;&#10;Find the unique number&quot;">
-      <created>1608057364084</created>
-      <option name="number" value="00173" />
-      <option name="presentableId" value="LOCAL-00173" />
-      <option name="project" value="LOCAL" />
-      <updated>1608057364084</updated>
+      <workItem from="1616038372111" duration="256000" />
     </task>
     <task id="LOCAL-00174" summary="Codewars solution &quot;Largest pair sum in array&quot;">
       <created>1608057668862</created>
@@ -542,14 +536,20 @@
       <option name="project" value="LOCAL" />
       <updated>1615945731636</updated>
     </task>
-    <option name="localTasksCounter" value="222" />
+    <task id="LOCAL-00222" summary="Codewars solution &quot;Nth Root of a Number&quot;">
+      <created>1616038645739</created>
+      <option name="number" value="00222" />
+      <option name="presentableId" value="LOCAL-00222" />
+      <option name="project" value="LOCAL" />
+      <updated>1616038645739</updated>
+    </task>
+    <option name="localTasksCounter" value="223" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Codewars solution &quot;Do you speak retsec?&quot;" />
     <MESSAGE value="Codewars solution &quot;All Star Code Challenge #15&quot;" />
     <MESSAGE value="Codewars solution &quot;Remove exclamation marks&quot;" />
     <MESSAGE value="Codewars solution &quot;DNA to RNA Conversion&quot;" />
@@ -574,6 +574,7 @@
     <MESSAGE value="Codewars solution &quot;This is odd&quot;" />
     <MESSAGE value="Codewars solution &quot;Return Even Whatever You've Been Given&quot;" />
     <MESSAGE value="Codewars solution &quot;Thinkful - Number Drills: Congo warehouses&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Codewars solution &quot;Thinkful - Number Drills: Congo warehouses&quot;" />
+    <MESSAGE value="Codewars solution &quot;Nth Root of a Number&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Codewars solution &quot;Nth Root of a Number&quot;" />
   </component>
 </project>
