@@ -197,13 +197,7 @@
       <workItem from="1615695430393" duration="193000" />
       <workItem from="1615774245349" duration="266000" />
       <workItem from="1615844081659" duration="262000" />
-    </task>
-    <task id="LOCAL-00172" summary="Codewars solution &quot;Highest and Lowest&quot;">
-      <created>1608057304450</created>
-      <option name="number" value="00172" />
-      <option name="presentableId" value="LOCAL-00172" />
-      <option name="project" value="LOCAL" />
-      <updated>1608057304451</updated>
+      <workItem from="1615945527494" duration="208000" />
     </task>
     <task id="LOCAL-00173" summary="Codewars solution &quot;&#10;Find the unique number&quot;">
       <created>1608057364084</created>
@@ -541,14 +535,20 @@
       <option name="project" value="LOCAL" />
       <updated>1615844352379</updated>
     </task>
-    <option name="localTasksCounter" value="221" />
+    <task id="LOCAL-00221" summary="Codewars solution &quot;Thinkful - Number Drills: Congo warehouses&quot;">
+      <created>1615945731635</created>
+      <option name="number" value="00221" />
+      <option name="presentableId" value="LOCAL-00221" />
+      <option name="project" value="LOCAL" />
+      <updated>1615945731636</updated>
+    </task>
+    <option name="localTasksCounter" value="222" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Codewars solution &quot;Remove the time&quot;" />
     <MESSAGE value="Codewars solution &quot;Do you speak retsec?&quot;" />
     <MESSAGE value="Codewars solution &quot;All Star Code Challenge #15&quot;" />
     <MESSAGE value="Codewars solution &quot;Remove exclamation marks&quot;" />
@@ -573,6 +573,7 @@
     <MESSAGE value="Codewars solution &quot;Multiply the strings in the array&quot;" />
     <MESSAGE value="Codewars solution &quot;This is odd&quot;" />
     <MESSAGE value="Codewars solution &quot;Return Even Whatever You've Been Given&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Codewars solution &quot;Return Even Whatever You've Been Given&quot;" />
+    <MESSAGE value="Codewars solution &quot;Thinkful - Number Drills: Congo warehouses&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Codewars solution &quot;Thinkful - Number Drills: Congo warehouses&quot;" />
   </component>
 </project>
