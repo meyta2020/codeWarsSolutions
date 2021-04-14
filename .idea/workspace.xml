@@ -199,13 +199,7 @@
       <workItem from="1615844081659" duration="262000" />
       <workItem from="1615945527494" duration="208000" />
       <workItem from="1616038372111" duration="256000" />
-    </task>
-    <task id="LOCAL-00174" summary="Codewars solution &quot;Largest pair sum in array&quot;">
-      <created>1608057668862</created>
-      <option name="number" value="00174" />
-      <option name="presentableId" value="LOCAL-00174" />
-      <option name="project" value="LOCAL" />
-      <updated>1608057668863</updated>
+      <workItem from="1616107238589" duration="150000" />
     </task>
     <task id="LOCAL-00175" summary="Codewars solution &quot;Descending Order&quot;">
       <created>1608130380670</created>
@@ -543,14 +537,20 @@
       <option name="project" value="LOCAL" />
       <updated>1616038645739</updated>
     </task>
-    <option name="localTasksCounter" value="223" />
+    <task id="LOCAL-00223" summary="Codewars solution &quot;Happy Birthday, Darling!&quot;">
+      <created>1616107397926</created>
+      <option name="number" value="00223" />
+      <option name="presentableId" value="LOCAL-00223" />
+      <option name="project" value="LOCAL" />
+      <updated>1616107397926</updated>
+    </task>
+    <option name="localTasksCounter" value="224" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Codewars solution &quot;All Star Code Challenge #15&quot;" />
     <MESSAGE value="Codewars solution &quot;Remove exclamation marks&quot;" />
     <MESSAGE value="Codewars solution &quot;DNA to RNA Conversion&quot;" />
     <MESSAGE value="Codewars solution &quot;Switcheroo&quot;" />
@@ -575,6 +575,7 @@
     <MESSAGE value="Codewars solution &quot;Return Even Whatever You've Been Given&quot;" />
     <MESSAGE value="Codewars solution &quot;Thinkful - Number Drills: Congo warehouses&quot;" />
     <MESSAGE value="Codewars solution &quot;Nth Root of a Number&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Codewars solution &quot;Nth Root of a Number&quot;" />
+    <MESSAGE value="Codewars solution &quot;Happy Birthday, Darling!&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Codewars solution &quot;Happy Birthday, Darling!&quot;" />
   </component>
 </project>
